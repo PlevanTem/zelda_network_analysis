@@ -1,0 +1,125 @@
+{{Infobox Boss
+|type= 
+|image= 
+{{Media
+ |Model BotW= File:BotW Stone Talus Model.png
+ |Model StBotW= File:StBotW Stone Talus Model.png
+}}
+|caption= 
+|pronunciation= 
+|plural= Stone Taluses<ref>{{Cite|Let's see how many {{Color|BotW Blue|Stone Taluses}} you've harvested so far... Looks like [X] out of 40.|Kilton|BotW}}</ref>
+|title= 
+|race= 
+|gender= 
+|game= {{BotW}}<br>{{StBotW}}
+|other= {{CoH}}<br>{{HWAoC}}
+|dungeon= 
+|habitat= See [[#Locations|below]]
+|health= 300<br>600 {{Small|(Luminous)}}<br>900 {{Small|(Rare)}}
+|weakness= {{Term|BotW|Iron Sledgehammer|link}}<br>{{Plural|BotW|Bomb Arrow|link}}
+|reward= [[Flint]]<br>{{Term|BotW|Amber|link}}<br>{{Term|BotW|Opal|link}}<br>{{Term|BotW|Ruby|link}}
+|exp= 
+|theme= 
+|strategy=
+|voice actor= 
+}}
+{{Term/Store|Stone Talus|Stone Taluses|Series, BotW, CoH}} are recurring enemies and {{Plural|Series|Sub-Boss|link}} in {{TLoZ|Series}}.<ref>{{Cite|'''{{Color|BotW Shrine Quest|Stone Talus}}'''|Hyrule Compendium|BotW}}</ref><ref>{{Cite|Defeated By: Stone Talus|Game Over|CoH}}</ref>
+
+==Characteristics==
+==={{BotW|-}}===
+{{Compendium/Extract|Stone Talus}}
+{{Plural|BotW|Stone Talus}} appear as a cluster of boulders at first, but once approached, they assemble into large golem-like beings. {{Term|BotW|Stone Talus (Luminous)|link|display= Luminous}}, {{Term|BotW|Stone Talus (Rare)|link|display= Rare}}, {{Term|BotW|Frost Talus|link|display= Frost}}, and {{Term|BotW|Igneo Talus|link|display= Igneo}} variations can also be found all around {{Term|BotW|Hyrule|link}}. {{Plural|BotW|Stone Talus}} are fairly large compared and deal important amounts of damage.{{How many}} They are very slow-moving, so as long as {{Term|BotW|Link|link}} stays behind or beneath them, he will be out of harm's way. {{Plural|BotW|Stone Talus}} can use their large arm structures to punch and swipe across the ground, dealing heavy damage to the impact area. They can also fall forward and crash their entire body into the ground or launch large fragments of their rocky frame at {{Term|BotW|Link}}. 
+
+To defeat a {{Term|BotW|Stone Talus}}, {{Term|BotW|Link}} can climb onto its body and attack the {{Term|BotW|Ore Deposit|link}} on its back, usually located on top or at the back of the {{Term|BotW|Sub-Boss|link}}. {{Term|BotW|Link}} can inflict major damage by using a double-handed {{Term|BotW|Weapon|link}} or {{Plural|BotW|Bomb Arrow|link}}. After taking damage, {{Plural|BotW|Stone Talus}} attempt to throw {{Term|BotW|Link}} off by shaking themselves. To make climbing easier, {{Term|BotW|Link}} can use a {{Term|BotW|Remote Bomb|link}} to blast apart its arms, hindering it temporarily. {{Plural|BotW|Stone Talus}} regenerate lost body parts shortly after losing them. If you can't climb onto it, stun it with a normal arrow, shooting the {{Term|BotW|Ore Deposit|link}} on its back, making it fall on its face. If you are new to Taluses, we recommend trying the Stone Talus Senior or the Stone Talus Junior first.   
+
+Upon being defeated, a {{Term|BotW|Stone Talus}} leaves behind {{Plural|BotW|Gem|link}} depending of its type. By defeating all Stone Taluses in {{Term|BotW|Hyrule Kingdom|link}}, as well as all other types of Talus, Link can receive the [[Medal of Honor: Talus]] from [[Kilton]]. This can only be done after completing the "[[Destroy Ganon]]" [[Main Quest]].
+
+====Locations====
+* {{Term|BotW|Great Plateau|link}}
+* {{Term|BotW|Deya Lake|link}}
+* {{Term|BotW|North Dueling Peaks|link}} (Senior)
+* {{Term|BotW|Dueling Peaks South|link}} (Junior)
+* {{Term|BotW|West Nabi Lake|link}}
+* {{Term|BotW|North Mable Ridge|link}}
+* {{Term|BotW|Martha's Landing|link}}
+* {{Term|BotW|Lake Floria|link}}
+* {{Term|BotW|Gama Cove|link}}
+* {{Term|BotW|Ovli Plain|link}}
+* {{Term|BotW|Cliffs of Quince|link}}
+
+=====Luminous=====
+* {{Term|BotW|Mapla Point|link}}
+* {{Term|BotW|Lake Hylia North|link}}
+* {{Term|BotW|Lake Kolomo|link}}
+* {{Term|BotW|Champion's Gate North|link}}
+* {{Term|BotW|South Koukot Plateau|link}}
+* {{Term|BotW|Mount Nabooru|link}}
+* {{Term|BotW|South Taafei Hill|link}}
+* {{Term|BotW|East Mount Granajh|link}}
+* {{Term|BotW|Upland Lindor|link}}
+* {{Term|BotW|Southern Tal Tal Peak|link}}
+* {{Term|BotW|Crenel Hills|link}}
+* {{Term|BotW|Rutimala Hill|link}}
+
+=====Rare=====
+* {{Term|BotW|Hyrule Castle West|link}}
+* {{Term|BotW|West Vatorsa Snowfield|link}}
+* {{Term|BotW|Illumeni Plateau|link}}
+* {{Term|BotW|Kolami Bridge South|link}}
+* {{Term|BotW|Gisa Crater|link}}
+* {{Term|BotW|Tabantha Hills|link}}
+* {{Term|BotW|Hyrule Castle Underground|link}}
+
+==={{StBotW|-}}===
+{{Future Release|Game}}
+{{Plural|StBotW|Stone Talus}} appear as {{Plural|StBotW|Enemy}} in the {{StBotW}}. They resemble their {{BotW}} counterparts, but they have been modified to function as a mobile {{Term|StBotW|Monster Stronghold|link}} replete with chevaux de frise on the undersides of their wooden frames to prevent intruders from climbing.
+
+==Other Appearances==
+==={{CoH|-}}===
+{{Ambig|Start}}
+{{Plural|CoH|Stone Talus}} are two tiles wide and move every third beat. They have 3 {{Plural|CoH|Heart Container|link}}, but must be hit multiple times to crack them, allowing their {{Plural|CoH|Heart|link}} to be reduced, unless the character's {{Term|CoH|Weapon|link}} has piercing. If the character is next to the {{Term|CoH|Stone Talus}} the beat before it moves, it will use an area attack, hitting all eight adjacent tiles. If the {{Term|CoH|Stone Talus}} is not hit for a while, it will sit still and become immune to attacks while it reforms itself, regaining lost {{Plural|CoH|Heart}}.
+{{Ambig|End}}
+
+==={{HWAoC|-}}===
+{{Noncanon|Start}}
+{{Stub|HWAoC}}
+
+{{Noncanon|End}}
+
+==Trivia==
+*{{Plural|BotW|Stone Talus}} were originally called Steppe Talus in early builds of the game.<ref>{{Cite web|quote= |author= Nintendo|published= June 14, 2016|retrieved= January 23, 2017|url= https://www.youtube.com/watch?v=3MtmDoWrV9k&t=16m10s|title= The Legend of Zelda: Breath of the Wild - Hunting and Gathering Gameplay - Nintendo E3 2016|site= YouTube|type= Video}}</ref>
+
+==Nomenclature==
+{{Nomenclature}}
+
+==Gallery==
+<gallery>
+File:CoH Stone Talus Sprite.png|A {{Term|CoH|Stone Talus}} from {{CoH|-}}
+File:HWAoC Stone Talus Model.png|A {{Term|HWAoC|Stone Talus}} from {{HWAoC|-}}
+</gallery>
+
+==See Also==
+* {{Term|Series|Frost Talus|link}}
+* {{Term|Series|Igneo Talus|link}}
+* {{Term|Series|Igneo Talus Titan|link}}
+* {{Term|Series|Obsidian Talus|link}}
+* {{Term|Series|Sandstone Talus|link}}
+* {{Term|Series|Stone Pebblit|link}}
+* {{Term|Series|Stone Talus (Junior)|link}}
+* {{Term|Series|Stone Talus (Luminous)|link}}
+* {{Term|Series|Stone Talus (Rare)|link}}
+* {{Term|Series|Stone Talus (Senior)|link}}
+
+{{Ref}}
+
+{{Bosses|BotW}}
+{{Categories
+ |Taluses
+ |enemies= BotW, StBotW, HWAoC
+ |sub-bosses= CoH
+}}
+
+[[de:Iwarok]]
+[[es:Petrarok]]
+[[fr:Lithorok]]
+[[zh-tw:岩石巨人]]

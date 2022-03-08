@@ -1,0 +1,27 @@
+{{Infobox Character
+|image= File:BotW Meeshy Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= 
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= 
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Meeshy||Series}} is a character in {{BotW}}.{{Fact}}
+
+==Biography==
+{{Stub|BotW}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Categories
+ |characters= BotW
+}}

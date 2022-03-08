@@ -1,0 +1,28 @@
+{{Infobox Character
+|image= File:BotW Modar Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Goron|link}}
+|gender= Male
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Modar||Series, BotW}} is a character in {{BotW}}.{{Name Ref|BotW}}
+
+==Biography==
+{{Stub|BotW}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Categories
+ |Gorons, Hyruleans
+ |characters= BotW
+}}

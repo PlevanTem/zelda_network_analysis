@@ -1,0 +1,27 @@
+{{Infobox Character
+|image= File:BotW Piaffe Model.png
+|caption= 
+|title= 
+|race= [[Hylian]]
+|gender= Male
+|game= {{BotW}}
+|other= 
+|era= 
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Piaffe||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Piaffe|N/A|BotW}}</ref>
+
+==Biography==
+Piaffe is the manager of the [[Gerudo Canyon Stable]] in the [[Gerudo Highlands]].<ref name="inn">{{Cite|Welcome to my {{Color|BotW Blue|stable}}. We deal in all things horse related. We also double as an inn.|Piaffe|BotW}}</ref> He offers [[Link]] the ability to board his [[Horse]] at the Stable.<ref>{{Cite|If you've come with a wild horse, you can register it with us here.|Piaffe|BotW}}</ref> As the Stable doubles as an [[Inn]],<ref name="inn"/> Piaffe also offers Link a chance to rest in a bed inside the Stable and recover his [[Heart]]s.<ref>{{Cite|Or if you want to stay for a {{Color|BotW Red|rest}}, please head to the counter inside.|Piaffe|BotW}}</ref>
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+{{Categories
+ |Hylians
+ |characters= BotW
+}}

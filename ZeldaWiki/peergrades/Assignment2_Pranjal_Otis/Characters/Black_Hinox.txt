@@ -1,0 +1,68 @@
+{{Infobox Enemy
+|image= File:BotW Black Hinox Model.png
+|caption= A {{Term|BotW|Black Hinox}} from {{BotW|-}}
+|pronunciation= 
+|plural= 
+|race= {{Term|Series|Hinox|link}}
+|game= {{BotW}}
+|other= {{CoH}}<br>{{HWAoC}}
+|habitat= [[West Necluda]]<br>{{Term|BotW|Hyrule Field|link}}
+|member= 
+|health= 
+|attack= 
+|weapon= 
+|spoils= [[Hinox Toenail]]<br>[[Hinox Tooth]]<br>[[Hinox Guts]]<br>[[Seared Steak]]<br>[[Seared Prime Steak]]<br>[[Seared Gourmet Steak]]<br>[[Roasted Bird Drumstick]]<br>[[Roasted Bird Thigh]]<br>[[Roasted Whole Bird]]
+|exp= 
+|theme= 
+}}
+{{Term/Store|Black Hinox|Black Hinox|Series, BotW, CoH|plural}} are recurring {{Plural|Series|Enemy|link}} and {{Plural|Series|Sub-Boss|link}} in {{TLoZ|Series}}.<ref>{{Cite|'''{{Color|BotW Shrine Quest|Black Hinox}}'''|Hyrule Compendium|BotW}}</ref><ref>{{Cite|Defeated By: Black Hinox|Game Over|CoH}}</ref>
+
+==Characteristics==
+==={{BotW|-}}===
+{{Compendium/Extract|Black Hinox}}
+Black Hinox are the strongest versions of [[Hinox]] found in {{BotW}}. They wear greaves on their legs, similar to [[Blue Hinox]], but their metal composition makes Black Hinox vulnerable to electric attacks.<ref>{{Cite|Black Hinox wear metal greaves that conduct electricity rather well.|Hyrule Compendium|BotW}}</ref> Like all other Hinox, their eyes are weak to attacks. When defeated, they drop {{Plural|BotW|Hinox Toenail|link}}, {{Plural|BotW|Hinox Tooth|link}}, [[Hinox Guts]], and a range of cooked meats.
+
+As part of "[[The Three Giant Brothers]]" [[Shrine Quest]], {{Term|BotW|Link|link}} must retrieve an [[Ancient Orb]] from each of the three Hinox on [[Mount Taran]], either by sneaking or by defeating them. The Oldest Kin is a Black Hinox, located in the [[Rabella Wetlands]].
+
+After Link defeats [[Calamity Ganon]] and comples the "[[Destroy Ganon]]" [[Main Quest]], [[Kilton]] will grant him the [[Medal of Honor: Hinox]] if he can defeat all of the Hinox in Hyrule, including Black Hinox.
+
+====Locations====
+*[[Tabahl Woods]]
+*[[Giant's Forest]]
+*[[Lake Totori South]]
+*[[Hebra West Summit]]
+*[[East Gut Check Rock]]
+*[[Tempest Gulch]]
+*[[Mount Taran]] (Oldest Kin)
+
+==Other Appearances==
+{{Ambig|Start}}
+==={{CoH|-}}===
+{{Stub|Coh}}
+{{Ambig|End}}
+
+{{Noncanon|Start}}
+==={{HWAoC|-}}===
+{{Stub|HWAoC}}
+{{Noncanon|End}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+==Gallery==
+<gallery>
+File:CoH Black Hinox Sprite.png|A {{Term|CoH|Black Hinox}} from {{CoH|-}}
+</gallery>
+
+==See Also==
+* {{Term|Series|Hinox|link}}
+* [[Blue Hinox]]
+* [[Stalnox]]
+
+{{Ref}}
+
+{{Categories
+ |Hinox
+ |enemies= BotW, HWAoC
+ |sub-bosses= CoH
+}}

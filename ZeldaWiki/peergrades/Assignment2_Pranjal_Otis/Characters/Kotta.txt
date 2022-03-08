@@ -1,0 +1,30 @@
+{{Infobox Character
+|image= File:BotW Kotta Model.png
+|caption= 
+|title= 
+|race= [[Gerudo]]
+|gender= Female
+|game= {{BotW}}
+|other= 
+|era= 
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Kotta||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Kotta|N/A|BotW}}</ref>
+
+==Biography==
+Kotta is a [[Gerudo]] soldier who can be found in the barracks in [[Gerudo Town]]. If [[Link]] speaks to her, she expresses disbelief that the [[Thunder Helm]] was stolen,<ref>{{Cite|I can't believe the {{Color|BotW Blue|Thunder Helm}} was stolen...|Kotta|BotW}}</ref> but is interrupted as [[Liana]] yells at her for speaking to outsiders.<ref>{{Cite|Hey, Kotta! Stop blabbing to outsiders about our problems!|Liana|BotW}}</ref> She is then upset that she is in trouble again and blames Link for it.<ref>{{Cite|<nowiki>*</nowiki>sigh* I'm in trouble again... Th-this is all your fault, you know!|Kotta|BotW}}</ref> Kotta gets sick while riding a {{Term|BotW|Sand Seal|link}}.<ref>{{Cite|I'll have to go out with a {{Color|BotW Blue|sand seal}} and search again, but... Ugh... It makes me feel so sick to surf around with one.|Kotta|BotW}}</ref>
+
+If Link speaks to Kotta after completing the [[Side Quest]], "[[The Search for Barta]]", she comments about what a mess everything with [[Barta]] was and how she is jealous that Barta is somehow popular with men.<ref>{{Cite|Well, it looks like Barta at least feels bad about what happened this time... What a mess, though.|Kotta|BotW}}</ref><ref>{{Cite|And you know the worst part? Even a vai like Barta, who's all over the place, is popular with the voe. I don't get it.|Kotta|BotW}}</ref>
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+
+{{Categories
+ |Gerudo
+ |characters= BotW
+}}

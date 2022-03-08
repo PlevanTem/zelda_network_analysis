@@ -1,0 +1,32 @@
+{{Infobox Character
+|image= File:BotW Bertri Model.png
+|caption= 
+|title= 
+|race= [[Gerudo]]
+|gender= Female
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Bertri||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Bertri|N/A|BotW}}</ref>
+
+==Biography==
+Bertri is a [[Gerudo]] soldier who can be found in the palace in [[Gerudo Town]]. She guards one of the entrances to [[Riju]]'s room upstairs. If [[Link]] tries to go past her before recovering the [[Thunder Helm]] from the [[Yiga Clan Hideout]], she stops him and tells him that he better leave if he does not want to be skewered.<ref>{{Cite|Halt! This isn't a place someone like you can walk in and out of whenever you like!|Bertri|BotW}}</ref><ref>{{Cite|If you don't want me to skewer you right here, you'd better leave at once!|Bertri|BotW}}</ref> After recovering the Thunder Helm, Bertri is shocked that Link has permission to enter Riju's bedroom and asks who he is.<ref>{{Cite|You've got permission to enter the {{Color|BotW Blue|chief}}'s bedroom?! Who ARE you?|Bertri|BotW}}</ref>
+
+==Nomenclature==
+{{Nomenclature}}
+
+==See Also==
+* {{Term|Series|Gerudo Town|link}}
+* {{Term|Series|Katta|link}}
+
+{{Ref}}
+
+{{Categories
+ |Gerudo, Hyruleans
+ |characters= BotW
+}}

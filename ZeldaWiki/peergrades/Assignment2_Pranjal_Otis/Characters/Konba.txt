@@ -1,0 +1,27 @@
+{{Infobox Character
+|image= File:BotW Konba Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= Male
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Konba||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Konba|N/A|BotW}}</ref>
+
+==Biography==
+{{Term|BotW|Konba}} can be found camped at the {{Term|BotW|Footrace Check-In|link}}. When approached, he challenges {{Term|BotW|Link|link}} to a friendly race.<ref>{{Cite|Hey, friend! You look like a tough boy. But how tough are you? Tough enough to challenge me to a {{Color|BotW Red|race}}?|Konba|BotW}}</ref> The race is to the top of {{Term|BotW|Mount Rhoam|link}}, between two flags.<ref>{{Cite|The goal is the {{Color|BotW Red|flags on top of the mountain}}! There's only two of us, so the race ends when someone reaches them!|Konba|BotW}}</ref> If {{Term|BotW|Link}} beats {{Term|BotW|Konba}}, he reluctantly rewards him with 50 {{Plural|BotW|Rupee|link}}.<ref>{{Cite|I wasn't REALLY trying my best... but a bet is a bet! Here's your {{Color|BotW Red|reward}} for a race well run!|Konba|BotW}}</ref>
+
+{{Ref}}
+
+{{Categories
+ |Hylians, Hyruleans
+ |characters= BotW
+}}

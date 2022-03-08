@@ -1,0 +1,150 @@
+{{Infobox Animal
+|image= File:BotW Dinraal Model.png
+|caption= 
+|title= 
+|species= [[Dragon]]
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= [[Era of the Wilds]]
+|family= 
+|voiceactor= 
+|theme= 
+|nocat= 
+}}
+{{Term/Store|Dinraal||Series, BotW}} is a [[Dragon]] in {{BotW}}.<ref>{{Cite|'''{{Color|BotW Shrine Quest|Dinraal}}'''|Hyrule Compendium|BotW}}</ref>
+
+==Characteristics==
+{{Compendium/Extract|Dinraal}}
+{{Term|BotW|Dinraal}} is one of three roaming {{Plural|BotW|Dragon|link}} in {{Term|BotW|Hyrule|link}}, the others being {{Term|BotW|Naydra|link}} and {{Term|BotW|Farosh|link}}. It can be found roaming the {{Term|BotW|Eldin (Region)|link}} region, {{Term|BotW|Great Hyrule Forest|link}}, {{Term|BotW|Akkala|link}}, and {{Term|BotW|Hebra|link}}. {{Term|BotW|Dinraal}} guards the {{Term|BotW|Spring of Power|link}}. While it cannot be defeated, it does not actively try to harm {{Term|BotW|Link}}. However, if {{Term|BotW|Link}} gets too close, he will be seared by the fire emanating from its body, unless he possesses a full set of {{Term|BotW|Flamebreaker Set|link}} that has been enhanced twice by a {{Term|BotW|Great Fairy|link}}. {{Term|BotW|Dinraal}} will drop different {{Plural|BotW|Material|link}} if {{Term|BotW|Link}} shoots it with a {{Term|BotW|Bow|link}}. Depending on what part of {{Term|BotW|Dinraal}} is hit, it will drop a {{Term|BotW|Shard of Dinraal's Horn|link}}, {{Term|BotW|Shard of Dinraal's Fang|link}}, {{Term|BotW|Dinraal's Claw|link}} or {{Term|BotW|Dinraal's Scale|link}}.
+
+{{Term|BotW|Dinraal's Scale}} can be offered at the {{Term|BotW|Spring of Power|link}} to unlock a hidden {{Term|BotW|Ancient Shrine|link}}.
+
+===Schedule===
+Note that these times will vary, but the difference between the timestamps are always the same. {{Term|BotW|Dinraal}} generally appears between 11:00 PM to 05:00 AM.
+{| class="wikitable sortable" border="1"
+|-
+!Time
+!Location
+!Behavior
+|-
+|<center>0:00</center>
+|{{Term|BotW|Deplian Badlands|link}}
+|Descending toward the {{Term|BotW|Eldin Great Skeleton|link}}
+|-
+|<center>1:00</center>
+|{{Term|BotW|Tabantha Frontier|link}}
+|Traveling along {{Term|BotW|Tanagar Canyon|link}}
+|-
+|<center>2:00</center>
+|{{Term|BotW|Tabantha Frontier|link}}
+|Disappearing into the clouds
+|-
+|<center>3:00</center>
+|{{Term|BotW|Tabantha Frontier|link}}
+|Descending towards and along {{Term|BotW|Tanagar Canyon|link}}
+|-
+|<center>4:00</center>
+|{{Term|BotW|Tabantha Frontier|link}}
+|Traveling underneath the {{Term|BotW|Tabantha Great Bridge|link}}
+|-
+|<center>5:00</center>
+|{{Term|BotW|Tabantha Frontier|link}}
+|Traveling above the {{Term|BotW|Tanagar Canyon|link}}
+|-
+|<center>6:00</center>
+|{{Term|BotW|Tabantha Frontier|link}}
+|Traveling towards the sky at the end of the {{Term|BotW|Tanagar Canyon|link}}
+|-
+|<center>7:00</center>
+|Outside of {{Term|BotW|Hyrule|link}}
+|Ascending west outside of {{Term|BotW|Hyrule|link}}
+|-
+|<center>8:00</center>
+|Outside of {{Term|BotW|Hyrule|link}}
+|Ascending into the sky and disappearing
+|-
+|<center>9:00</center>
+|
+|
+|-
+|<center>10:00</center>
+|
+|
+|-
+|<center>11:00</center>
+|
+|
+|-
+|<center>12:00</center>
+|
+|
+|-
+|<center>1:00</center>
+|
+|
+|-
+|<center>2:00</center>
+|
+|
+|-
+|<center>3:00</center>
+|
+|
+|-
+|<center>4:00</center>
+|
+|
+|-
+|<center>5:00</center>
+|
+|
+|-
+|<center>6:00</center>
+|
+|
+|-
+|<center>7:00</center>
+|
+|
+|-
+|<center>8:00</center>
+|
+|
+|-
+|<center>9:00</center>
+|
+|
+|-
+|<center>10:00</center>
+|
+|
+|-
+|<center>11:00</center>
+|
+|
+|}
+
+==Nomenclature==
+{{Term|BotW|Dinraal}}'s name is a reference to the golden goddess [[Din (Goddess)|Din]]. Its Japanese and various localized names seem to derive from [[Eldin]], which itself comes from Din also.
+{{Nomenclature}}
+
+==Gallery==
+<gallery>
+File:BotW Link Racing Dinraal.png|{{Term|BotW|Link}} running alongside {{Term|BotW|Dinraal}}
+File:BotW Dinraal Concept Art.png|Concept art of Dinraal
+</gallery>
+
+==See Also==
+* [[Farosh]]
+* [[Naydra]]
+* [[Din (Goddess)|Din]]
+* [[Eldin (Dragon)]]
+* [[Eldin (Spirit)]]
+
+{{Ref}}
+
+{{Categories
+ |Dragons
+ |characters= BotW
+}}

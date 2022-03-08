@@ -1,0 +1,67 @@
+{{Infobox Character
+|image= File:BotW Monari Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= Hylian
+|gender= Female{{Fact}}
+|game= {{BotW}}
+|other= 
+|era= 
+|family= {{Term|BotW|Moggs|link}} {{Small|(Husband)}}{{Fact}}
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Monari||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Monari|N/A|BotW}}</ref>
+
+==Biography==
+Monari is an elderly woman who lives in [[Tarrey Town]] on [[Lake Akkala]]. Upon first meeting Monari, she mentions strange plants and guys with ugly faces that live outside the village.<ref>{{Cite|Strange plants and guys with ugly faces live just outside the village. There are a lot of them, right?|Monari|BotW}}</ref> She also mentions a big flower southeast of [[Tarrey Town]].<ref>{{Cite|Especially the big flower that's to the southeast of Tarrey Town|Monari|BotW}}</ref> Monari is married to {{Term|BotW|Moggs|link}}, who also lives in Tarrey Town.
+
+==Nomenclature==
+{{Names
+|align= left
+|ja= 
+|jaM= 
+|zhS= 
+|zhSM= 
+|zhT= 
+|zhTM= 
+|nl= 
+|nlM= 
+|fi= 
+|fiM= 
+|frC= 
+|frCM= 
+|frF= Monalie
+|frFM= 
+|de= 
+|deM= 
+|he= 
+|heM= 
+|hu= 
+|huM= 
+|it= 
+|itM= 
+|ko= 
+|koM= 
+|no= 
+|noM= 
+|pl= 
+|plM= 
+|ptB= 
+|ptBM= 
+|ptP= 
+|ptPM= 
+|ru= 
+|ruM= 
+|esS= 
+|esSM= 
+|esL= 
+|esLM= }}
+
+{{Ref}}
+{{Categories
+ |characters= BotW
+}}

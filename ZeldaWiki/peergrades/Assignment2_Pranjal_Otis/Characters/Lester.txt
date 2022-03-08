@@ -1,0 +1,29 @@
+{{Infobox Character
+|image= File:BotW Lester Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Lester||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Lester|N/A|BotW}}</ref>
+
+==Biography==
+Lester is a worker at {{Term|BotW|Rito Stable|link}}. If spoken to, he will request that {{Term|BotW|Link|link}} bring him Goron spice,<ref>{{Cite|If you happen to get your hands on some {{Color|BotW Blue|Goron spice}}, can you give it to me?|Lester|BotW}}</ref> which begins the "[[Curry for What Ails You]]" {{Term|BotW|Side Quest|link}}. He will reward Link with 50 {{Plural|BotW|Rupee|link}} upon receiving the spice.<ref>{{Cite|Hey... Could I ask you to part with that {{Color|BotW Blue|Goron spice}} for, say, {{Color|BotW Red|50 rupees}}?|Lester|BotW}}</ref>
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+{{Categories
+ |Hylians, Hyruleans
+ |characters= BotW
+}}

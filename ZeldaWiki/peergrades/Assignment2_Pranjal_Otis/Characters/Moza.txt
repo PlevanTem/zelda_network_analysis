@@ -1,0 +1,29 @@
+{{Infobox Character
+|image= File:BotW Moza Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= Female{{Fact|BotW}}
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Moza||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Moza|N/A|BotW}}</ref>
+
+==Biography==
+Moza is a [[Hylian]] woman who appears on a cliff in the [[Gerudo Desert|Gerudo desert]] near the [[Ishto Soh Shrine]]. She can be found once [[Link]] sees and follows her apparent smoke signal. When he sees her, she will tell him that she is cooking on a pot, but accidentally burnt her food. When spoken to, she will tell him about her meals, in which he can learn more about them by asking her to learn more about her meals, after which she will go back to cooking.
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+{{Categories
+ |Hylians, Hyruleans
+ |characters= BotW
+}}

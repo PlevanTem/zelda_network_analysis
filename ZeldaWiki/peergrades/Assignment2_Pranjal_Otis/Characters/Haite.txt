@@ -1,0 +1,34 @@
+{{Infobox Character
+|image= File:BotW Haite Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= Female{{Fact}}
+|game= {{BotW}}
+|other= 
+|era= 
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Haite||Series}} is a character in {{BotW}}.<ref>{{Cite|Haite|N/A|BotW}}</ref>
+
+==Biography==
+Haite is a girl who lives at the [[Outskirt Stable]]. She can be seen running around outside the Stable during the [[Time|Day]]. If [[Link]] inquires about what she is up to, she will remark that they are playing tag, and offer Link to join in.<ref>{{Cite|[What are you doing?] Playing tag! You want to play?|Haite|BotW}}</ref>{{Note|Speaking to the girl and then choosing to end the conversation only annoys Haite, resulting in her blowing a raspberry at Link.<ref>{{Cite|[Nothing.] Thbbb!|Haite|BotW}}</ref>}}
+
+If it begins to [[Rain]] at some point while Haite is out, she will run indoors to get out of the bad [[Weather]].<ref>{{Cite|Raaaain!|Haite|BotW}}</ref> She will then sit on the floor, hoping for the Rain to stop.<ref>{{Cite|I wish the rain would stop.|Haite|BotW}}</ref> As soon as the Rain lets up, she will bolt outside and continue their game of tag.
+
+In the evening, Haite joins [[Myti]] at the Cooking Pot for dinner.<ref>{{Cite|Eat up now.|Myti|BotW}}</ref><ref>{{Cite|Din din!|Haite|BotW}}</ref> If Link talks to Haite while she is at the Cooking Pot, she will state that they eat vegetables so they wish become big and strong.<ref>{{Cite|I eat vegetables 'cause I wanna be big and strong!|Haite|BotW}}</ref> At night, Link can listen to Haite sleep talk.<ref>{{Cite|So full... So sweepy...|Haite|BotW}}</ref>
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Notes}}
+{{Ref}}
+{{Categories
+ |Hylians, Hyruleans
+ |characters= BotW
+}}

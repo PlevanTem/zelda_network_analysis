@@ -1,0 +1,39 @@
+{{Lacking Sources|BotW}}
+{{Infobox Character
+|image= File:BotW Kinov Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Kinov||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Kinov|N/A|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+{{Term|BotW|Kinov}} is a young boy native to {{Term|BotW|Lurelin Village|link}}. His mother is {{Term|BotW|Kiana|link}} and his father is a fisherman, and it's believed {{Term|BotW|Kinov}} and his brother{{Which}} will grow up to be fishermen, too.{{Fact|BotW}}
+
+When {{Term|BotW|Link|link}} first meets {{Term|BotW|Kiana}} and {{Term|BotW|Kinov}}, the boy is excited to have {{Term|BotW|Seafood Paella|link}} for dinner. However, because they are short on ingredients, they ask {{Term|BotW|Link}} to retrieve some {{Term|BotW|Goat Butter|link}} and a {{Term|BotW|Hearty Blueshell Snail|link}}.
+
+==Nomenclature==
+{{Nomenclature}}
+
+==Gallery==
+<gallery>
+File:BotW Kiana and Kinov.jpg|{{Term|BotW|Kinov}} and {{Term|BotW|Kiana}} near a {{Term|BotW|Cooking Pot}}
+</gallery>
+
+{{Ref}}
+
+{{Categories
+ |Hylians, Hyruleans, Lurelin Villagers
+ |characters= BotW
+}}

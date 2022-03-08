@@ -1,0 +1,29 @@
+{{Infobox Character
+|image= File:BotW Verla Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Rito|link}}
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Verla||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Verla|N/A|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+{{Categories
+ |Hyruleans, Rito, Rito Villagers
+ |characters= BotW
+}}

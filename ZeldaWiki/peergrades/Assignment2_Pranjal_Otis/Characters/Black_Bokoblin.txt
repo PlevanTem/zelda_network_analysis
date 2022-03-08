@@ -1,0 +1,75 @@
+{{Infobox Enemy
+|image= 
+{{Media
+ |Model BotW= File:BotW Black Bokoblin Model.png
+ |Model StBotW= File:StBotW Black Bokoblin Model.png
+}}
+|caption= 
+|race= {{Term|Series|Bokoblin|link}}
+|game= {{BotW}}<br>{{StBotW}}
+|other= {{CoH}}<br>{{HWAoC}}
+|habitat= 
+|health= 240
+|member= 
+|attack= 
+|weapon= 
+|spoils= 
+{{Infobox Game Blocks
+ |BotW= {{Term|BotW|Bokoblin Horn|link}}<br>{{Term|BotW|Bokoblin Fang|link}}<br>{{Term|BotW|Bokoblin Guts|link}}
+}}
+|exp= 
+|theme= 
+}}
+{{Term/Store|Black Bokoblin|Black Bokoblins|Series, BotW, CoH}} are enemies in the {{TLoZ|Series}}.<ref>{{Cite|'''{{Color|BotW Shrine Quest|Black Bokoblin}}'''|Hyrule Compendium|BotW}}</ref><ref>{{Cite|Defeated By: Black Bokoblin|Game Over|CoH}}</ref>{{Name Ref|StBotW, HWAoC}}
+
+==Characteristics==
+==={{BotW|-}}===
+{{Compendium/Extract|Black Bokoblin}}
+{{Plural|BotW|Black Bokoblin}} are a stronger variant of {{Plural|BotW|Blue Bokoblin|link}}. They are much more resilient and are usually armed with stronger {{Plural|BotW|Weapon}} than their common counterparts, including {{Plural|BotW|Dragonbone Boko Club|link}} and {{Plural|BotW|Dragonbone Boko Bat|link}}. {{Plural|BotW|Black Bokoblin}} may be found in monster camps and occasionally on roads where they may attack passing travelers. {{Plural|BotW|Black Bokoblin}} may also sometimes be found going on hunts while riding {{Plural|BotW|Horse|link}}.
+
+Black Bokoblins share an attack pattern with other {{Term|BotW|Bokoblin}} counterparts. On the ground, {{Plural|BotW|Black Bokoblin}} mainly attack by swinging and slamming their held {{Plural|BotW|Weapon}}. In the event that their {{Plural|BotW|Weapon}} is lost or stolen, they will search for any other available {{Plural|BotW|Weapon}} nearby and use them instead. In some monster camps, {{Plural|BotW|Black Bokoblin}} may also be found standing on top watch towers, where they may alert other monsters to {{Term|BotW|Link}}'s presence by blowing a horn. These {{Plural|BotW|Black Bokoblin}} may also be equipped with {{Plural|BotW|Bow|link}} that they use to snipe intruders with {{Plural|BotW|Arrow|link}}.
+
+When defeated, {{Plural|BotW|Black Bokoblin}} may drop {{Plural|BotW|Bokoblin Fang|link}}, {{Plural|BotW|Bokoblin Horn|link}}, or {{Term|BotW|Bokoblin Guts|link}}.
+
+==={{StBotW|-}}===
+{{Future Release}}
+{{Stub|StBotW}}
+{{Plural|StBotW|Black Bokoblin}} are set to appear in {{StBotW|-}}.
+
+==Other Appearances==
+==={{CoH|-}}===
+{{Ambig|Start}}
+{{Stub|CoH}}
+[[File:CoH Black Bokoblin Sprite.png|left]]
+{{Plural|CoH|Black Bokoblin}} appear as enemies in {{CoH}} where they move to the beat of the music. They're stronger than the {{Term|CoH|Green Bokoblin|link}} and {{Term|CoH|Red Bokoblin|link}}, but share the same beat pattern as they raise their arms up for one beat before moving on the following beat.
+{{Ambig|End}}
+
+==={{HWAoC|-}}===
+{{Noncanon|Start}}
+{{Stub|HWAoC}}
+In {{HWAoC}}, Black Bokoblins appear as the second strongest type of {{Term|HWAoC|Bokoblin|link}}, first appearing in the {{Term|HWAoC|Scenario|link}}, "{{Term|HWAoC|Calamity Strikes|link}}."
+{{Noncanon|End}}
+
+==Gallery==
+<gallery>
+File:BotW Black Bokoblin Horse Rider Model.png|A {{Term|BotW|Black Bokoblin}} riding a {{Term|BotW|Horse}} from {{BotW|-}}
+File:BotW Master Mode.png|{{Term|BotW|Link}} fighting {{Plural|BotW|Blue Bokoblin|display=Blue}} and {{Plural|BotW|Black Bokoblin}} on the {{Term|BotW|Great Plateau}} in {{Term|BotW|Master Mode}} from {{BotW|-}}
+File:BotW Bokoblin Concept Artwork.png|Concept art of a {{Term|BotW|Black Bokoblin}} from {{BotW|-}}
+</gallery>
+
+==See Also==
+* {{Term|Series|Blue Bokoblin|link}}
+* {{Term|Series|Bokoblin|link}}
+* {{Term|CoH|Bomb Bokoblin|link}}
+* {{Term|Series|Golden Bokoblin|link}}
+* {{Term|Series|Green Bokoblin|link}}
+* {{Term|CoH|Purple Bokoblin|link}}
+* {{Term|Series|Silver Bokoblin|link}}
+* {{Term|Series|Stalkoblin|link}}
+
+{{Ref}}
+
+{{Categories
+ |Blins, Bokoblins
+ |enemies= BotW, StBotW, CoH, HWAoC
+}}

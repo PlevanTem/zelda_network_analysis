@@ -1,0 +1,7 @@
+networkx==2.6.3
+fa2
+community
+python-louvain
+wordcloud
+powerlaw==1.4.6
+vaderSentiment==3.3.2

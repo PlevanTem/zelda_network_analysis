@@ -1,0 +1,24 @@
+{{Infobox Location
+|image= File:BotW East Necluda.png
+|caption= The northern half of East Necluda
+|pronunciation= 
+|game= {{BotW}}
+|other= 
+|inhab= 
+|items= 
+|season= 
+|temperature= 
+|theme= 
+|related= 
+}}
+{{Term/Store|East Necluda||Series, BotW}} is a location in {{BotW}}.<ref>{{Cite|{{Big|East Necluda}}|Map|BotW}}</ref>
+
+==Features and Overview==
+{{Stub|BotW}}
+
+{{Ref}}
+
+{{Categories
+ |East Necluda, Necluda
+ |locations= BotW
+}}

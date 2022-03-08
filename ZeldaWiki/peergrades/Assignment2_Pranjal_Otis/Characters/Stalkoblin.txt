@@ -1,0 +1,61 @@
+{{Infobox Enemy
+|image= File:BotW Stalkoblin Model.png
+|caption= 
+|race= [[Bokoblin]]
+|game= {{BotW}}
+|other= {{HWAoC}}
+|habitat= 
+|member= 
+|health= 1
+|attack= 
+|weapon= 
+|spoils= [[Bokoblin Horn]]<br>[[Bokoblin Fang]]
+|exp= 
+|theme= 
+}}
+{{Term/Store|Stalkoblin|Stalkoblins|Series, BotW|plural}} are recurring {{Plural|Series|Enemy|link}} in {{TLoZ|Series}}.<ref>{{Cite|'''{{Color|BotW Shrine Quest|Stalkoblin}}'''|Hyrule Compendium|BotW}}</ref>
+
+==Characteristics==
+==={{BotW|-}}===
+{{Compendium/Extract|Stalkoblin}}
+Stalkoblins are the skeletal remains of [[Bokoblin]]s which emerge from the earth at night. When they emerge, they may be holding various {{Plural|BotW|Weapon|link}}, however, if they lack any Weapons, they will either swipe at Link if he is nearby, or dig up rocks to throw at Link. Some can also be found riding [[Stalhorse]]s.
+
+Stalkoblins are fragile and their bodies will easily collapse if struck, leaving their disembodied skulls to roll around. Shortly afterwards, their bodies will reform and run after their heads to reattach them. If a Stalkoblin's skull is present, the bodies of other Stalkoblins whose skulls have been destroyed will remain. These decapitated skeletons will simply jump and wave at the remaining intact Stalkoblins until their skulls have been detached, at which point they will attempt to take the skull for themselves. Stalkoblins will pick up the detached skulls of other Stalkoblins and throw them at Link to hurt him. If they come into contact with a flame, their entire body will catch on fire, in addition to any wooden implements they carry.
+
+The detached arms of Stalkoblins, known as [[Bokoblin Arm]]s, can be picked up by Link and used as a {{Term|BotW|Weapon|link}}. While detached, it will roll towards a common point with the other bones to reform the Stalkoblin's skeleton. If taken, Bokoblin Arms will remain animate when the rest of the skeletons they belong to are destroyed.<ref>{{Cite|A skeletal arm that keeps moving even after it's severed from its body. It's kind of gross to strap it to your back, but it'll do in a pinch. It's old and fragile, so it's quick to break.|N/A|BotW}}</ref> When defeated, they may drop [[Bokoblin Fang]]s. Curiously, the Bokoblin Fangs will not drop from their skulls, but rather from their skeleton bodies.
+
+Link may pick up a detached Stalkoblin head and kick it further away from its body. If it lands in water deep enough to submerge it completely, the Stalkoblin will die.
+
+If Link wears the [[Bokoblin Mask]], [[Majora's Mask (Item)|Majora's Mask]], or possesses the [[Disguise; Bone Atk. Up]] [[Set Bonus]] by wearing the full [[Radiant Set]] or [[Phantom Ganon Set]], Stalkoblins will not attack Link unless he attacks them.
+
+==Other Appearances==
+{{Noncanon|Start}}
+==={{HWAoC|-}}===
+Stalkoblins reappear as enemies in ''{{HWAoC}}'', first appearing in [[Freeing Korok Forest]]. Like in the ''Breath of the Wild'', they fight with various weapons against Link and his allies. Unlike ''Breath of the Wild'', if a Stalkoblin is defeated, its head flies off and resumes the fight as a [[Cursed Bokoblin]].
+{{Noncanon|End}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+==Gallery==
+<gallery>
+File:BotW Stalkoblin Dormant Model.png|A dormant Stalkoblin, as seen in-game
+</gallery>
+
+==See Also==
+* [[Stalmoblin]]
+* [[Stalizalfos]]
+* [[Bokoblin]]
+* [[Blue Bokoblin]]
+* [[Black Bokoblin]]
+* [[Silver Bokoblin]]
+* [[Golden Bokoblin]]
+* [[Cursed Bokoblin]]
+* [[Stalchild]]
+
+{{Ref}}
+
+{{Categories
+ |Blins, Bokoblins, Stals
+ |enemies= BotW, HWAoC
+}}

@@ -1,0 +1,55 @@
+{{Infobox Enemy
+|image= File:BotW Stone Talus (Rare) Model.png
+|caption= 
+|pronunciation= 
+|plural= 
+|race= {{Term|BotW|Stone Talus|link}}
+|game= {{BotW}}
+|other= {{HWAoC}}
+|habitat= {{Term|BotW|Hyrule Field|link}}<br>[[Tabantha Frontier]]
+|member= 
+|health= 
+|attack= 
+|weapon= [[Iron Sledgehammer]]<br>[[Bomb Arrow]]
+|spoils= [[Flint]]<br>{{Term|BotW|Amber|link}}<br>{{Term|BotW|Opal|link}}<br>{{Term|BotW|Topaz|link}}<br>{{Term|BotW|Ruby|link}}<br>{{Term|BotW|Sapphire|link}}<br>{{Term|BotW|Diamond|link}}
+|exp= 
+|theme= 
+}}
+{{Term/Store|Stone Talus (Rare)|Stone Taluses (Rare)|Series, BotW|plural}} are recurring enemies in {{TLoZ|Series}}.<ref>{{Cite|'''{{Color|BotW Shrine Quest|Stone Talus (Rare)}}'''|Hyrule Compendium|BotW}}</ref>
+
+==Characteristics==
+==={{BotW|-}}===
+{{Compendium/Extract|Stone Talus (Rare)}}
+Stone Taluses (Rare) are a variation of {{Plural|BotW|Stone Talus|link}} found primarily around {{Term|BotW|Hyrule Field|link}} and [[Tabantha Frontier]]. The main difference between them is the [[Ore Deposit]] on their body instead being a [[Rare Ore Deposit]], and as a result of this, they tend to drop rarer loot than other Stone Taluses.<ref>{{Cite|Unlike your average Stone Talus, this type's ore deposit contains a large amount of precious ore.|Hyrule Compendium|BotW}}</ref> The only way to damage them is to attack the Rare Ore Deposit on their body, which are particularly vulnerable to {{Plural|BotW|Iron Sledgehammer|link}}, as well as other mining tools, and {{Plural|BotW|Bomb Arrow|link}}.
+
+After defeating [[Calamity Ganon]], {{Term|BotW|Link|link}} can obtain the [[Medal of Honor: Talus]] from [[Kilton]]. He can do so by defeating all Stone Taluses (Rare), as well as all other variations of Talus, in {{Term|BotW|Hyrule Kingdom|link}}.
+
+====Locations====
+* {{Term|BotW|Hyrule Castle West|link}}
+* {{Term|BotW|West Vatorsa Snowfield|link}}
+* {{Term|BotW|Illumeni Plateau|link}}
+* {{Term|BotW|Kolami Bridge South|link}}
+* {{Term|BotW|Gisa Crater|link}}
+* {{Term|BotW|Tabantha Hills|link}}
+* {{Term|BotW|Hyrule Castle Underground|link}}
+
+==Other Appearances==
+{{Noncanon|Start}}
+==={{HWAoC|-}}===
+{{Stub|HWAoC}}
+{{Noncanon|End}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+==See Also==
+* {{Term|Series|Rare Ore Deposit|link}}
+* {{Term|Series|Stone Talus|link}}
+* {{Term|Series|Stone Talus (Luminous)|link}}
+
+{{Ref}}
+
+{{Categories
+ |Taluses
+ |enemies= BotW, HWAoC
+}}

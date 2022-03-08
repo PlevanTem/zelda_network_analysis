@@ -1,0 +1,69 @@
+{{Infobox Enemy
+|image= File:BotW Guardian Scout III Model.png
+|caption= 
+|pronunciation= 
+|plural= 
+|race= {{Term|Series|Guardian|link}}
+|game= {{BotW}}
+|other= {{HWAoC}}
+|habitat= {{Plural|BotW|Ancient Shrine|link}}
+|member= 
+|health= 1500
+|attack= Shooting Lasers<br>Swinging Guardian Weapons
+|weapon= 
+|spoils= {{Term|BotW|Ancient Gear|link}}<br>{{Term|BotW|Ancient Shaft|link}}<br>{{Term|BotW|Ancient Core|link}}<br>{{Term|BotW|Ancient Screw|link}}<br>{{Term|BotW|Ancient Spring|link}}
+|exp= 
+|theme= 
+}}
+{{Term/Store|Guardian Scout III|Guardian Scouts III|Series, BotW|plural}} are recurring {{Plural|Series|Enemy|link}} in {{TLoZ|Series}}.<ref>{{Cite|{{Color|BotW Shrine Quest|Guardian Scout III}}|Hyrule Compendium|BotW}}</ref>{{Name Ref|HWAoC}}
+
+==Characteristics==
+==={{BotW|-}}===
+{{Compendium/Extract|Guardian Scout III}}
+The Guardian Scout III is the third variation of the {{Term|BotW|Guardian Scout|link}}. They're found inside "A Moderate Test of Strength" {{Plural|BotW|Ancient Shrine|link}}, which require {{Term|BotW|Link|link}} to defeat them in order to complete the shrine. Unlike the {{Term|BotW|Guardian Scout II|link}}, the Guardian Scout III has the ability to dual-wield weapons, which can be any combination of a {{Term|BotW|Guardian Sword+|link}}, {{Term|BotW|Guardian Shield+|link}}, {{Term|BotW|Guardian Shield+|link}}, and {{Term|BotW|Ancient Battle Axe+|link}}.<ref>{{Cite|This model is equipped with twin-blade functionality to further test the combat prowess of one undertaking the trials.|Hyrule Compendium|BotW}}</ref>
+
+====Locations====
+* {{Plural|BotW|Ancient Shrine|link}}
+** {{Term|BotW|Ke'nai Shakah Shrine|link}}
+** {{Term|BotW|Mijah Rokee Shrine|link}}
+** {{Term|BotW|Muwo Jeem Shrine|link}}
+** {{Term|BotW|Namika Ozz Shrine|link}}
+** {{Term|BotW|Ruvo Korbah Shrine|link}} {{DLC|TCB}}
+** {{Term|BotW|Sasa Kai Shrine|link}}
+** {{Term|BotW|Shoqa Tatone Shrine|link}}
+* {{Term|BotW|Trial of the Sword|link}} {{DLC|TMT}}
+
+====Drops====
+A Guardian Scout III drops exactly 1 of:
+{{BotWDropTable | Ancient Gear | 40 | Ancient Shaft | 40 | Ancient Core | 20 }}
+as well as between 3 and 4 of:
+{{BotWDropTable | Ancient Screw | 30 | Ancient Spring | 30 | Ancient Gear | 20 | Ancient Shaft | 20 }}
+
+==Other Appearances==
+{{Noncanon|Start}}
+==={{HWAoC|-}}===
+{{Stub|HWAoC}}
+{{Plural|HWAoC|Guardian Scout III}} reappear in {{HWAoC}}, corrupted with {{Term|HWAoC|Calamity Ganon|link}}'s {{Term|HWAoC|Malice|link}}. They fight with various ancient {{Plural|HWAoC|Weapon|link}}, while their {{Term|HWAoC|Weak Point Gauge|link}} can be exposed with {{Term|HWAoC|Stasis|link}}.
+{{Noncanon|End}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+==Gallery==
+<gallery>
+File:BotW Guardian Concept Artwork.png|Concept Art of a Guardian Scout III from {{BotW|-}}
+File:BotW Guardian Turret Concept Artwork.jpg|Concept art of a Guardian Scout III and a [[Guardian Turret]].
+File:HWAoC Guardian Scout III Model.png|A {{Term|HWAoC|Guardian Scout III}}, as seen in {{HWAoC|-}}
+</gallery>
+
+==See Also==
+* {{Term|Series|Guardian Scout I|link}}
+* {{Term|Series|Guardian Scout II|link}}
+* {{Term|Series|Guardian Scout IV|link}}
+
+{{Ref}}
+
+{{Categories
+ |Ancient Technology, Guardian Scouts, Guardians
+ |enemies= BotW, HWAoC
+}}

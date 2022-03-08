@@ -1,0 +1,72 @@
+
+{{Infobox Character
+|image= File:BotW Lonni Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Lonni||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Lonni|N/A|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+Lonni is a monster loving [[Hylian]]. She is traveling the world in search of her true love, though her interest in monsters scares away most people.<ref>{{Cite|You're talking to me? I'm just a plain ol' Hylian traveler is all, nothing quite as interesting as a Gerudo or a monster. I'm out here traveling in search of my true love. I'm single and ready to mingle, but my love of monsters scares people away.|Lonni|BotW}}</ref><ref>{{Cite|Oh, hello! I'm a bit surprised you decided to talk to me. My love of monsters often scares people away. No idea why!|Lonni|BotW}}</ref>
+
+Her favorite monster is the [[Stalnox]].<ref>{{Cite|Stalnoxes are pretty big and creepy, but the way they throw their own bones at you...is just so cool! Maybe I'll find someone who likes monsters as much as I do. Then we can stay up all night talking about Stalnoxes!|Lonni|BotW}}</ref>
+
+==Nomenclature==
+{{Names
+|align= left
+|ja= 
+|jaM= 
+|zhS= 
+|zhSM= 
+|zhT= 
+|zhTM= 
+|nl= 
+|nlM= 
+|fi= 
+|fiM= 
+|frC= 
+|frCM= 
+|frF= Cibline
+|frFM= 
+|de= 
+|deM= 
+|he= 
+|heM= 
+|hu= 
+|huM= 
+|it= 
+|itM= 
+|ko= 
+|koM= 
+|no= 
+|noM= 
+|pl= 
+|plM= 
+|ptB= 
+|ptBM= 
+|ptP= 
+|ptPM= 
+|ru= 
+|ruM= 
+|esS= 
+|esSM= 
+|esL= 
+|esLM= }}
+
+{{Ref}}
+{{Categories
+ |Hylians, Hyruleans
+ |characters= BotW
+}}

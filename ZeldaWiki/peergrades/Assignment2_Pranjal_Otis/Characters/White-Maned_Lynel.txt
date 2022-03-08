@@ -1,0 +1,40 @@
+{{Infobox Enemy
+|image= File:BotW White-Maned Lynel Model.png
+|caption= 
+|race= [[Lynel]]
+|game= {{BotW}}
+|other= {{HWAoC}}
+|habitat= [[Hyrule Field]]<br>[[Hebra Mountains]]<br>[[Great Plateau]] {{Exp|Master Mode}}
+|member= 
+|health= 4000
+|attack= 
+|weapon= 
+|spoils= [[Lynel Horn]]<br>[[Lynel Hoof]]<br>[[Lynel Guts]]
+|exp= 
+|theme= 
+}}
+{{Term/Store|White-Maned Lynel|White-Maned Lynels|Series, BotW|plural}} are recurring enemies in {{TLoZ|Series}}.<ref>{{Cite|'''{{Color|BotW Shrine Quest|White-Maned Lynel}}'''|Hyrule Compendium|BotW}}</ref>
+
+==Characteristics==
+{{Compendium/Extract|White-Maned Lynel}}
+White-Maned Lynels are the white and black-colored variant of [[Lynel]]s. They have been in [[Hyrule]] since ancient times and only a few amount of witnesses of this breed survive to tell the tale.<ref>{{Cite|These fearsome monsters have lived in Hyrule since ancient times.|Hyrule Compendium|BotW}}</ref><ref>{{Cite|There are so few eyewitness accounts of this breed because a White-Maned Lynel is not one to let even simple passersby escape with their lives.|Hyrule Compendium|BotW}}</ref> Like other Lynels, it will often refrain from attacking for a short period of time after spotting Link, instead opting to stare down its opponent. However, they start their battle by roaring out loudly and slamming its Weapon down to causing a fiery explosion around itself. Being a higher tier variant from the [[Blue-Maned Lynel]]s, it is known to carry a stronger set of "Savage" Lynel gear, such as a [[Savage Lynel Sword]], [[Savage Lynel Shield]], [[Savage Lynel Bow]], [[Savage Lynel Spear]], and a [[Savage Lynel Crusher]].
+
+In [[Master Mode]], they carry "Mighty" Lynel gear. One also appears on the [[Great Plateau]] carrying a Savage Lynel Crusher and Savage Lynel Bow.
+
+==Nomenclature==
+{{Nomenclature}}
+
+==Gallery==
+<gallery>
+File:BotW A Premonition.png|Several White-Maned Lynels and [[Bokoblin]]s after being defeated by Link in the eighth [[Recovered Memory]]
+</gallery>
+
+==See Also==
+* {{Term|Series|Malice Lynel|link}}
+
+{{Ref}}
+
+{{Categories
+ |Lynels
+ |enemies= BotW
+}}

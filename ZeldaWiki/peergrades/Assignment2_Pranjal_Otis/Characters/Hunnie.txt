@@ -1,0 +1,31 @@
+{{Infobox Character
+|image= File:BotW Hunnie Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= Female{{Fact}}
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= {{Term|BotW|Hagie|link}} {{Small|(father)}}<br>{{Term|BotW|Ruli|link}} {{Small|(mother)}}
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Hunnie||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Hunnie|N/A|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+
+==Nomenclature==
+Hunnie may come from {{Wp|Honey}}, a common nickname given to loved ones. It may also be because of her decidedly sweet tooth.
+{{Nomenclature}}
+
+{{Ref}}
+
+{{Categories
+ |Hylians, Hyruleans
+ |characters= BotW
+}}

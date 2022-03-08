@@ -1,0 +1,657 @@
+,Role,Name
+0,Allies,Baddek
+1,Allies,Bamboo
+2,Allies,Banji
+3,Allies,Baumar
+4,Allies,Bayge
+5,Allies,Beedle
+6,Allies,Bolson
+7,Allies,Brigo
+8,Allies,Cambo
+9,Allies,Chabi
+10,Allies,Chork
+11,Allies,Chumin
+12,Allies,Dabi
+13,Allies,Daruk
+14,Allies,Dauntless
+15,Allies,Dinraal
+16,Allies,Ena
+17,Allies,Endai
+18,Allies,Epona
+19,Allies,Farosh
+20,Allies,Fyson
+21,Allies,Goflam
+22,Allies,Greyson
+23,Allies,Heehl
+24,Allies,Hestu
+25,Allies,Hudson
+26,Allies,Hylia
+27,Allies,Kabetta
+28,Allies,Kanny
+29,Allies,Kapson
+30,Allies,Karson
+31,Allies,Kass
+32,Allies,Kenyo
+33,Allies,Kilton
+34,Allies,Leekah
+35,Allies,Link
+36,Allies,Meeshy
+37,Allies,Meghyn
+38,Allies,Mei
+39,Allies,Mils
+40,Allies,Mina
+41,Allies,Mipha
+42,Allies,Misko
+43,Allies,Nat
+44,Allies,Naydra
+45,Allies,Nazbi
+46,Allies,Pelison
+47,Allies,Pikango
+48,Allies,Regan
+49,Allies,Revali
+50,Allies,Rhondson
+51,Allies,Rik
+52,Allies,Ronn
+53,Allies,Savelle
+54,Allies,Sherfin
+55,Allies,Sho
+56,Allies,Sorelia
+57,Allies,Spoone
+58,Allies,Toren
+59,Allies,Totsuna
+60,Allies,Tye
+61,Allies,Urbosa
+62,Allies,Yammo
+63,Allies,Princess Zelda
+64,Allies,Zyle
+65,Allies,Laroba
+66,Allies,Naddon
+67,Allies,Pitar
+68,Allies,Dah Hesho
+69,Allies,Dmitri
+70,Allies,Gleema
+71,Allies,Jana
+72,Allies,Kah Mael
+73,Allies,Kaifa
+74,Allies,Ke'nai Shakah
+75,Allies,Lonni
+76,Allies,Nell
+77,Allies,Rex
+78,Allies,Stamm
+79,Allies,Tenne
+80,Allies,Tutsuwa Nima
+81,Allies,Ze Kasho
+82,Allies,Granté
+83,Allies,Hagie
+84,Allies,Hunnie
+85,Allies,Moggs
+86,Allies,Monari
+87,Allies,Ruli
+88,Allies,Ritaag Zumo
+89,Allies,Tu Ka'loh
+90,Allies,Aya
+91,Allies,Cherry
+92,Allies,Hoz
+93,Allies,Jerrin
+94,Allies,Katosa Aug
+95,Allies,Khini
+96,Allies,Nobo
+97,Allies,Robbie
+98,Allies,Rudi
+99,Allies,Zuna Kai
+100,Allies,Glendo
+101,Allies,King Rhoam
+102,Allies,Etsu Korima
+103,Allies,Ja Baij
+104,Allies,Keh Namut
+105,Allies,Old Man
+106,Allies,Oman Au
+107,Allies,Owa Daim
+108,Allies,Rohta Chigah
+109,Allies,Ruvo Korbah
+110,Allies,Yowaka Ita
+111,Allies,Aliza
+112,Allies,Benny
+113,Allies,Bosh Kala
+114,Allies,Botrick
+115,Allies,Canni
+116,Allies,Dah Kaso
+117,Allies,Dai
+118,Allies,Gotter
+119,Allies,Haite
+120,Allies,Kaam Ya'tak
+121,Allies,Katah Chuki
+122,Allies,Monya Toma
+123,Allies,Myti
+124,Allies,Namika Ozz
+125,Allies,Noya Neha
+126,Allies,Parcy
+127,Allies,Rota Ooh
+128,Allies,Saas Ko'sah
+129,Allies,Toffa
+130,Allies,Trott
+131,Allies,Wahgo Katta
+132,Allies,Zalta Wa
+133,Allies,Branli
+134,Allies,Konba
+135,Allies,Maag No'rah
+136,Allies,Mijah Rokee
+137,Allies,Mogg Latan
+138,Allies,Shira Gomar
+139,Allies,Toh Yahsa
+140,Allies,Yunobo
+141,Allies,Ashe
+142,Allies,Axyl
+143,Allies,Bladon
+144,Allies,Bohrin
+145,Allies,Boldon
+146,Allies,Breen
+147,Allies,Daqa Koh
+148,Allies,Dayto
+149,Allies,Dorill
+150,Allies,Douma
+151,Allies,Drak
+152,Allies,Dugby
+153,Allies,Fin
+154,Allies,Gaile
+155,Allies,Gonguron
+156,Allies,Gorae Torr
+157,Allies,Grapp
+158,Allies,Jengo
+159,Allies,Kairo
+160,Allies,Karsh
+161,Allies,Kayra Mah
+162,Allies,Kima
+163,Allies,Kish
+164,Allies,Mayro
+165,Allies,Mirro Shaz
+166,Allies,Mo'a Keet
+167,Allies,Molo
+168,Allies,Offrak
+169,Allies,Ozunda
+170,Allies,Qua Raym
+171,Allies,Russ
+172,Allies,Sah Dahaj
+173,Allies,Shamae
+174,Allies,Shora Hah
+175,Allies,Tah Muhl
+176,Allies,Zorona
+177,Allies,Aji
+178,Allies,Bargoh
+179,Allies,Bludo
+180,Allies,Fugo
+181,Allies,Krane
+182,Allies,Pyle
+183,Allies,Ramella
+184,Allies,Rogaro
+185,Allies,Rohan
+186,Allies,Shae Mo'sah
+187,Allies,Slergo
+188,Allies,Tanko
+189,Allies,Tray
+190,Allies,Volcon
+191,Allies,Akrah
+192,Allies,Daag Chokah
+193,Allies,Garshon
+194,Allies,Ketoh Wawai
+195,Allies,Kuhn Sidajj
+196,Allies,Maag Halan
+197,Allies,Oaki
+198,Allies,Onya
+199,Allies,Sprinn
+200,Allies,Tasho
+201,Allies,Zooki
+202,Allies,Zumi
+203,Allies,Chio
+204,Allies,Damia
+205,Allies,Daz
+206,Allies,Keo Ruug
+207,Allies,Kula
+208,Allies,Maca
+209,Allies,Natie
+210,Allies,Peeks
+211,Allies,Pepp
+212,Allies,The Great Deku Tree
+213,Allies,Walton
+214,Allies,Blynne
+215,Allies,Jini
+216,Allies,Ka'o Makagh
+217,Allies,Loone
+218,Allies,Malanya
+219,Allies,Padok
+220,Allies,Perosa
+221,Allies,Phanna
+222,Allies,Pumaag Nitae
+223,Allies,Roscoe
+224,Allies,Shae Katha
+225,Allies,Shoqa Tatone
+226,Allies,Straia
+227,Allies,Suzuna
+228,Allies,Ya Naga
+229,Allies,Barta
+230,Allies,Calisa
+231,Allies,Eighth Heroine
+232,Allies,Gartan
+233,Allies,Lukan
+234,Allies,Seven Heroines
+235,Allies,Anche
+236,Allies,Benja
+237,Allies,Dako Tah
+238,Allies,Daqo Chisay
+239,Allies,Dila Maag
+240,Allies,Dillie
+241,Allies,Hawa Koth
+242,Allies,Jee Noh
+243,Allies,Jora
+244,Allies,Kay Noh
+245,Allies,Keive Tala
+246,Allies,Kema Zoos
+247,Allies,Konora
+248,Allies,Korsh O'hu
+249,Allies,Kyra
+250,Allies,Misae Suma
+251,Allies,Patricia
+252,Allies,Pokki
+253,Allies,Raqa Zunzo
+254,Allies,Riju
+255,Allies,Shabonne
+256,Allies,Strade
+257,Allies,Sudrey
+258,Allies,Takama Shiri
+259,Allies,Tali
+260,Allies,Tera
+261,Allies,Tho Kayu
+262,Allies,Ardin
+263,Allies,Ashai
+264,Allies,Aurie Taamu
+265,Allies,Babi
+266,Allies,Bertri
+267,Allies,Bozai
+268,Allies,Buliara
+269,Allies,Calyban
+270,Allies,Cara
+271,Allies,Dalia
+272,Allies,Danda
+273,Allies,Deltan
+274,Allies,Dina
+275,Allies,Dorrah
+276,Allies,Essa
+277,Allies,Estan
+278,Allies,Fegran
+279,Allies,Frelly
+280,Allies,Frita
+281,Allies,Furosa
+282,Allies,Greta
+283,Allies,Isha
+284,Allies,Jules
+285,Allies,Kalani
+286,Allies,Katta
+287,Allies,Kohm
+288,Allies,Kotta
+289,Allies,Laine
+290,Allies,Lashley
+291,Allies,Leena
+292,Allies,Liana
+293,Allies,Lorn
+294,Allies,Lyndae
+295,Allies,Makure
+296,Allies,Malena
+297,Allies,Marta
+298,Allies,Merina
+299,Allies,Muava
+300,Allies,Nali
+301,Allies,Nellie
+302,Allies,Olu
+303,Allies,Padda
+304,Allies,Pasha
+305,Allies,Pearle
+306,Allies,Ploka
+307,Allies,Pritana
+308,Allies,Pyra
+309,Allies,Reeza
+310,Allies,Rima
+311,Allies,Risa
+312,Allies,Romah
+313,Allies,Rotana
+314,Allies,Saula
+315,Allies,Smaude
+316,Allies,Spera
+317,Allies,Sumati
+318,Allies,Tauma
+319,Allies,Teake
+320,Allies,Traysi
+321,Allies,Yaido
+322,Allies,Emri
+323,Allies,Guy
+324,Allies,Kachoo
+325,Allies,Maike
+326,Allies,Nobiro
+327,Allies,Ripp
+328,Allies,Robsten
+329,Allies,Shaillu
+330,Allies,Vilia
+331,Allies,Canolo
+332,Allies,Flaxel
+333,Allies,Ishto Soh
+334,Allies,Joloo Nah
+335,Allies,Keeha Yoog
+336,Allies,Kema Kosassa
+337,Allies,Kihiro Moh
+338,Allies,Kuh Takkar
+339,Allies,Maypin
+340,Allies,Moza
+341,Allies,Oliff
+342,Allies,Palme
+343,Allies,Piaffe
+344,Allies,Pirou
+345,Allies,Sasa Kai
+346,Allies,Sesami
+347,Allies,Sho Dantu
+348,Allies,Suma Sahma
+349,Allies,Falmark
+350,Allies,Teba
+351,Allies,Tulin
+352,Allies,Goma Asaagh
+353,Allies,Hia Miu
+354,Allies,Kiah Toza
+355,Allies,Maka Rah
+356,Allies,Mozo Shenno
+357,Allies,Noe Rajee
+358,Allies,Qaza Tokki
+359,Allies,Rok Uwog
+360,Allies,Selmie
+361,Allies,Sha Warvo
+362,Allies,Shada Naw
+363,Allies,To Quomo
+364,Allies,Danton
+365,Allies,Harlow
+366,Allies,Harry (Breath of the Wild)
+367,Allies,Juannelle
+368,Allies,Mary (Breath of the Wild)
+369,Allies,Monkton
+370,Allies,Rin Oyaa
+371,Allies,Sha Gehma
+372,Allies,Varke
+373,Allies,Ariane
+374,Allies,Bareeda Naag
+375,Allies,Cree
+376,Allies,Dunba Taag
+377,Allies,Galli
+378,Allies,Gee Ha'rah
+379,Allies,Geggle
+380,Allies,Genli
+381,Allies,Gesane
+382,Allies,Kah Okeo
+383,Allies,Kaysa
+384,Allies,Kheel
+385,Allies,Kotts
+386,Allies,Lanno Kooh
+387,Allies,Lester
+388,Allies,Modar
+389,Allies,Molli
+390,Allies,Notts
+391,Allies,Pondo
+392,Allies,Ponthos
+393,Allies,Rona Kachta
+394,Allies,Shae Loya
+395,Allies,Sheem Dagoze
+396,Allies,Tena Ko'sah
+397,Allies,Voo Lota
+398,Allies,Akh Va'quot
+399,Allies,Amali
+400,Allies,Bedoli
+401,Allies,Cecili
+402,Allies,Harth
+403,Allies,Huck
+404,Allies,Jogo
+405,Allies,Juney
+406,Allies,Kaneli
+407,Allies,Laissa
+408,Allies,Mazli
+409,Allies,Misa
+410,Allies,Nekk
+411,Allies,Saki
+412,Allies,Verla
+413,Allies,Gruve
+414,Allies,Ledo
+415,Allies,Tona
+416,Allies,Tottika
+417,Allies,Tula
+418,Allies,Eryck
+419,Allies,Dagah Keek
+420,Allies,Mezza Lo
+421,Allies,Rucco Maag
+422,Allies,Sidon
+423,Allies,Soh Kofi
+424,Allies,Torfeau
+425,Allies,Bazz
+426,Allies,Cleff
+427,Allies,Dento
+428,Allies,Dunma
+429,Allies,Finley
+430,Allies,Fronk
+431,Allies,Gaddison
+432,Allies,Jiahto
+433,Allies,Kayden
+434,Allies,Keye
+435,Allies,King Dorephan
+436,Allies,Kodah
+437,Allies,Laflat
+438,Allies,Laruta
+439,Allies,Marot
+440,Allies,Muzu
+441,Allies,Ne'ez Yohma
+442,Allies,Reagah
+443,Allies,Rivan
+444,Allies,Seggin
+445,Allies,Trello
+446,Allies,Tumbo
+447,Allies,Shai Yota
+448,Allies,Ami
+449,Allies,Daka Tuss
+450,Allies,Izra
+451,Allies,Kaya Wan
+452,Allies,Lawdon
+453,Allies,Quince
+454,Allies,Satty
+455,Allies,Sheh Rata
+456,Allies,Yolero
+457,Allies,Jitan Sa'mi
+458,Allies,Tahno O'ah
+459,Allies,Agus
+460,Allies,Celessa
+461,Allies,Garill
+462,Allies,Joute
+463,Allies,Letty
+464,Allies,Spinch (Horse)
+465,Allies,Spinch (Hylian)
+466,Allies,Toma
+467,Allies,Calip
+468,Allies,Dow Na'eh
+469,Allies,Flavi
+470,Allies,Garini
+471,Allies,Kah Yah
+472,Allies,Kam Urog
+473,Allies,Mimos
+474,Allies,Muwo Jeem
+475,Allies,Perda
+476,Allies,Tawa Jinn
+477,Allies,Teli
+478,Allies,Wabbin
+479,Allies,Amira
+480,Allies,Aster
+481,Allies,Azu
+482,Allies,Clavia
+483,Allies,Dantz
+484,Allies,Horned Statue
+485,Allies,Ivee
+486,Allies,Karin
+487,Allies,Koyin
+488,Allies,Leop
+489,Allies,Manny (Breath of the Wild)
+490,Allies,Medda
+491,Allies,Myahm Agana
+492,Allies,Nack
+493,Allies,Narah
+494,Allies,Nebb
+495,Allies,Nikki
+496,Allies,Prima
+497,Allies,Pruce
+498,Allies,Purah
+499,Allies,Ralera
+500,Allies,Reede
+501,Allies,Rhodes
+502,Allies,Sayge
+503,Allies,Sefaro
+504,Allies,Seldon
+505,Allies,Senna
+506,Allies,Sophie
+507,Allies,Symin
+508,Allies,Tamana
+509,Allies,Teebo
+510,Allies,Thadd
+511,Allies,Tokk
+512,Allies,Uma
+513,Allies,Worten
+514,Allies,Armes
+515,Allies,Chessica
+516,Allies,Cloyne
+517,Allies,Kiana
+518,Allies,Kinov
+519,Allies,Mubs
+520,Allies,Numar
+521,Allies,Rozel
+522,Allies,Sebasto
+523,Allies,Yah Rin
+524,Allies,Zuta
+525,Allies,Chaas Qeta
+526,Allies,Korgu Chideh
+527,Allies,Mimo
+528,Allies,Anly
+529,Allies,Brokka
+530,Allies,Bugut
+531,Allies,Cima
+532,Allies,Cotera
+533,Allies,Darton
+534,Allies,Domidak
+535,Allies,Giro
+536,Allies,Ha Dahamar
+537,Allies,Hila Rao
+538,Allies,Hino
+539,Allies,Kampo
+540,Allies,Magda
+541,Allies,Prissen
+542,Allies,Qukah Nata
+543,Allies,Ree Dahee
+544,Allies,Rensa
+545,Allies,Sagessa
+546,Allies,Shai Utoh
+547,Allies,Shay
+548,Allies,Shee Vaneer
+549,Allies,Shee Venath
+550,Allies,Shibo
+551,Allies,Shoda Sah
+552,Allies,Tasseren
+553,Allies,Toto Sah
+554,Allies,Cado
+555,Allies,Claree
+556,Allies,Cottla
+557,Allies,Dorian
+558,Allies,Impa
+559,Allies,Koko
+560,Allies,Lakna Rokee
+561,Allies,Lasli
+562,Allies,Mellie
+563,Allies,Nanna
+564,Allies,Olkin
+565,Allies,Ollie
+566,Allies,Paya
+567,Allies,Rola
+568,Allies,Steen
+569,Allies,Ta'loh Naeg
+570,Allies,Trissa
+571,Enemies,Black Bokoblin
+572,Enemies,Black Lizalfos
+573,Enemies,Black Moblin
+574,Enemies,Blizzrobe
+575,Enemies,Blue Bokoblin
+576,Enemies,Blue Lizalfos
+577,Enemies,Blue-Maned Lynel
+578,Enemies,Blue Moblin
+579,Enemies,Bokoblin
+580,Enemies,Chuchu
+581,Enemies,Cursed Bokoblin
+582,Enemies,Cursed Lizalfos
+583,Enemies,Cursed Moblin
+584,Enemies,Decayed Guardian
+585,Enemies,Electric Chuchu
+586,Enemies,Electric Keese
+587,Enemies,Electric Lizalfos
+588,Enemies,Electric Wizzrobe
+589,Enemies,Fire-Breath Lizalfos
+590,Enemies,Fire Chuchu
+591,Enemies,Fire Keese
+592,Enemies,Fire Wizzrobe
+593,Enemies,Forest Octorok
+594,Enemies,Frost Pebblit
+595,Enemies,Golden Bokoblin
+596,Enemies,Golden Lizalfos
+597,Enemies,Golden Lynel
+598,Enemies,Golden Moblin
+599,Enemies,Guardian Stalker
+600,Enemies,Guardian Scout I
+601,Enemies,Guardian Scout II
+602,Enemies,Guardian Scout III
+603,Enemies,Guardian Scout IV
+604,Enemies,Guardian Skywatcher
+605,Enemies,Guardian Turret
+606,Enemies,Ice Chuchu
+607,Enemies,Ice Keese
+608,Enemies,Ice-Breath Lizalfos
+609,Enemies,Ice Wizzrobe
+610,Enemies,Igneo Pebblit
+611,Enemies,Keese
+612,Enemies,Lizalfos
+613,Enemies,Lynel
+614,Enemies,Meteo Wizzrobe
+615,Enemies,Moblin
+616,Enemies,Rock Octorok
+617,Enemies,Sentry
+618,Enemies,Silver Bokoblin
+619,Enemies,Silver Lizalfos
+620,Enemies,Silver Lynel
+621,Enemies,Silver Moblin
+622,Enemies,Sky Octorok
+623,Enemies,Snow Octorok
+624,Enemies,Stalizalfos
+625,Enemies,Stalkoblin
+626,Enemies,Stalmoblin
+627,Enemies,Stone Pebblit
+628,Enemies,Thunder Wizzrobe
+629,Enemies,Treasure Octorok
+630,Enemies,Water Octorok
+631,Enemies,White-Maned Lynel
+632,Enemies,Yiga Blademaster
+633,Enemies,Yiga Footsoldier
+634,Bosses,Stone Talus
+635,Bosses,Stone Talus (Junior)
+636,Bosses,Stone Talus (Senior)
+637,Bosses,Stone Talus (Luminous)
+638,Bosses,Stone Talus (Rare)
+639,Bosses,Igneo Talus
+640,Bosses,Frost Talus
+641,Bosses,Hinox
+642,Bosses,Blue Hinox
+643,Bosses,Black Hinox
+644,Bosses,Stalnox
+645,Bosses,Molduga
+646,Bosses,Igneo Talus Titan
+647,Bosses,Molduking
+648,Bosses,Windblight Ganon
+649,Bosses,Fireblight Ganon
+650,Bosses,Thunderblight Ganon
+651,Bosses,Waterblight Ganon
+652,Bosses,Master Kohga
+653,Bosses,Monk Maz Koshia
+654,Bosses,Calamity Ganon
+655,Bosses,Dark Beast Ganon

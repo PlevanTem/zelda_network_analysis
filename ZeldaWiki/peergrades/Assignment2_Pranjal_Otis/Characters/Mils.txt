@@ -1,0 +1,32 @@
+{{Infobox Character
+|image= File:BotW Mils Model.png
+|caption= 
+|title= 
+|race= [[Hylian]]
+|gender= Male
+|game= {{BotW}}
+|other= 
+|era= 
+|family = [[Mina]] {{Small|(sister)}}
+|voiceactor= 
+|theme=
+|counter= 
+}}
+{{Term/Store|Mils||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Mils|N/A|BotW}}</ref>
+
+==Biography==
+Mils is a [[Hylian]] who hunts for treasure with his sister [[Mina]]<ref>{{Cite|That's where we come in. We're treasure hunters, searching for a one-in-a-million payday.|Mina|BotW}}</ref>. The siblings can be found near the [[Exchange Ruins]] north of the [[Great Plateau]]. The two of them can be attacked by [[Bokoblins]].<ref>{{Cite|I knew it wasn't smart to go treasure hunting in these parts.|Mils|BotW}}</ref>
+
+Mils wants to go home but his sister demands that they keep searching for treasure.<ref>{{Cite|But my sister says this is where we search, then this is where we search. Even if I wish we could just go home.|Mils|BotW}}</ref>
+
+==Nomenclature==
+{{Nomenclature}}
+
+==See Also==
+* [[Mina]]
+
+{{Ref}}
+{{Categories
+ |Hylians
+ |characters= BotW
+}}

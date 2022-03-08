@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Metal_Boulder", "to": "Metal Boulder"}], "pages": {"-1": {"ns": 0, "title": "Metal Boulder", "missing": ""}}}}

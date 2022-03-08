@@ -1,0 +1,72 @@
+{{Infobox Character
+|image= File:BotW Malanya Model.png
+|caption= 
+|title= Horse God
+|race={{Term|Series|Fairy|link}} 
+|gender= Male<ref>{{Cite|Not far from here lives the mysterious {{Color|BotW Red|god of horses}}. If a horse dies, he can bring it back to life.|Perosa|BotW}}</ref>
+|game= {{BotW}}
+|other= {{HWAoC}}
+|era= 
+|family= 
+|voiceactor= Patrick Seitz {{Small|(English)}}<ref>{{Cite web|quote= I still remember waking up early as a kid to beat the very first Legend of Zelda game, so voicing Malanya the Horse God in #HyruleWarriorsAgeofCalamity is a real trot--er, treat!|author= Patrick Seitz|published= November 20, 2020|retrieved= December 15, 2020|url= https://twitter.com/seitz_unseen/status/1329928049882669056?s=21|title= |site= Twitter|type= }}</ref>
+|theme= 
+|counter= 
+}}
+{{Term/Store|Malanya||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Malanya|N/A|BotW}}</ref>
+
+==Biography==
+Malanya is the god who watches over the [[Horse]]s of the world.<ref>{{Cite|My name is Malanya. I am the god who watches over the horses of this world.|Malanya|BotW}}</ref> He makes his home in the [[Faron (Region)|Faron]] [[Region]] in [[Malanya Spring]] near the [[Lake of the Horse God]]. When first visited, Malanya is found trapped inside a bud, requiring 1,000 [[Rupee]]s to regain his power.<ref>{{Cite|So please... I beg of you... Help me regain the power I've lost... All I need is {{Color|BotW Red|1,000 rupees}}... When my power has been restored, I should be able to be of use to you, who loves horses so.|Malanya|BotW}}</ref> Once paid, he will offer to revive any Horse killed during [[Link]]'s quest for free once.<ref>{{Cite|If a horse you love passes away from some sort of tragic, fatal accident, it is within my power to revive that horse...|Malanya|BotW}}</ref> Any other revival will cost him an [[Endura Carrot]].
+
+Malanya is usually calm and refined, though he will occasionally threaten Link if he believes the hero is mistreating Horses.<ref>{{Cite|However... If I detect vile intent behind the death of your horse... {{Big|You will suffer my wrath!}}|Malanya|BotW}}</ref> However, he claims he is merely jesting.<ref>{{Cite|Hahaha, I only jest...|Malanya|BotW}}</ref>
+
+==Trivia==
+*Malanya's music theme is a combination of "[[Epona's Song]]" and the Great Fairy Fountain theme.
+
+==Nomenclature==
+{{Names
+|align= left
+|enBr= 
+|enBrM= 
+|ja= {{Romanize|マーロン|Māron}}
+|jaM= 
+|esS= 
+|esSM= 
+|esL= 
+|esLM= 
+|frF= Marlon
+|frFM= 
+|frC= 
+|frCM= 
+|de= Mahlon
+|deM= comes from [[Malon]]
+|it= 
+|itM= 
+|ptP= 
+|ptPM= 
+|ptB= 
+|ptBM= 
+|nl= 
+|nlM= 
+|ru= 
+|ruM= 
+|ko= 
+|koM= 
+|zhT= 
+|zhTM= 
+|zhS= 
+|zhSM= }}
+
+==Gallery==
+<gallery>
+File:BotW Malanya Concept Art 01.jpg|Finalized concept art.
+File:BotW Malanya Concept Art 02.jpg|Early concept art.
+File:BotW Malanya Horse God Fountain.png|Malanya's Fairy Fountain
+</gallery>
+
+{{Ref}}
+
+
+{{Categories
+ |Deities
+ |characters= BotW
+}}

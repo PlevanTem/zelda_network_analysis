@@ -1,0 +1,29 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "Bosses_in_Breath_of_the_Wild",
+        "to": "Bosses in Breath of the Wild"
+      }
+    ],
+    "pages": {
+      "77607": {
+        "pageid": 77607,
+        "ns": 0,
+        "title": "Bosses in Breath of the Wild",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "*": "<noinclude>{{DISPLAYTITLE: Bosses in {{BotW|-}}}}\nThe following is a list of [[Boss]]es from {{BotW}}.</noinclude>\n\n==Overworld Bosses==\n<gallery class=\"center\">\nFile:BotW Stone Talus Model.png|{{Term|BotW|Stone Talus|link}}\nFile:BotW Stone Talus (Junior) Fight.jpg|{{Term|BotW|Stone Talus (Junior)|link}}<br>{{Small|''({{Term|BotW|Dueling Peaks South|link}})''}}\nFile:BotW Stone Talus (Senior) Fight.jpg|{{Term|BotW|Stone Talus (Senior)|link}}<br>{{Small|''({{Term|BotW|North Dueling Peaks|link}})''}}\nFile:BotW Stone Talus (Luminous) Model.png|{{Term|BotW|Stone Talus (Luminous)|link}}\nFile:BotW Stone Talus (Rare) Model.png|{{Term|BotW|Stone Talus (Rare)|link}}\nFile:BotW Igneo Talus Model.png|{{Term|BotW|Igneo Talus|link}}\nFile:BotW Frost Talus Model.png|{{Term|BotW|Frost Talus|link}}\nFile:BotW Hinox Model.png|{{Term|BotW|Hinox|link}}\nFile:BotW Hinox Model 2.jpg|{{Term|BotW|Hinox|link}} (Youngest Kin)<br>{{Small|''({{Term|BotW|Mount Taran|link}})''}}\nFile:BotW Hinox (Middle Kin) Model.png|{{Term|BotW|Hinox|link}} (Middle Kin)<br>{{Small|''({{Term|BotW|Mount Taran|link}})''}}\nFile:BotW Hinox (Oldest Kin) Model.png|{{Term|BotW|Hinox|link}} (Oldest Kin)<br>{{Small|''({{Term|BotW|Mount Taran|link}})''}}\nFile:BotW Blue Hinox Model.png|{{Term|BotW|Blue Hinox|link}}\nFile:BotW Black Hinox Model.png|{{Term|BotW|Black Hinox|link}}\nFile:BotW Stalnox Model.png|{{Term|BotW|Stalnox|link}}\nFile:BotW Molduga Model.png|{{Term|BotW|Molduga|link}}\nFile:BotW Igneo Talus Titan Model.png|{{Term|BotW|Igneo Talus Titan|link}} {{DLC|TCB}}<br>{{Small|''({{Term|BotW|Lake Darman|link}})''}}\nFile:BotW Molduking Model.png|{{Term|BotW|Molduking|link}} {{DLC|TCB}}<br>{{Small|''({{Term|BotW|Gerudo Desert|link}})''}}\n</gallery>\n\n==Dungeon Bosses==\n<gallery class=\"center\">\nFile:BotW Windblight Ganon Model.png|''Scourge of Divine Beast Vah Medoh''<br>{{Term|BotW|Windblight Ganon|link}}<br>{{Small|''({{Term|BotW|Divine Beast Vah Medoh|link}})''}}<br>{{Small|''({{Term|BotW|Illusory Realm|link}})''}}\nFile:BotW Fireblight Ganon Model.png|''Scourge of Divine Beast Vah Rudania''<br>{{Term|BotW|Fireblight Ganon|link}}<br>{{Small|''({{Term|BotW|Divine Beast Vah Rudania|link}})''}}<br>{{Small|''({{Term|BotW|Illusory Realm|link}})''}}\nFile:BotW Thunderblight Ganon Model.png|''Scourge of Divine Beast Vah Naboris''<br>{{Term|BotW|Thunderblight Ganon|link}}<br>{{Small|''({{Term|BotW|Divine Beast Vah Naboris|link}})''}}<br>{{Small|''({{Term|BotW|Illusory Realm|link}})''}}\nFile:BotW Waterblight Ganon Model.png|''Scourge of Divine Beast Vah Ruta''<br>{{Term|BotW|Waterblight Ganon|link}}<br>{{Small|''({{Term|BotW|Divine Beast Vah Ruta|link}})''}}<br>{{Small|''({{Term|BotW|Illusory Realm|link}})''}}\nFile:BotW Master Kohga Model.png|''Leader of the Yiga Clan''<br>{{Term|BotW|Master Kohga|link}}<br>''{{Small|({{Term|BotW|Yiga Clan Hideout|link}})''}}\nFile:BotW Monk Maz Koshia Model.png|''The Divine Trial''<br>{{Term|BotW|Monk Maz Koshia|link}} {{DLC|TCB}}<br>{{Small|''({{Term|BotW|Final Trial|link}})''}}\nFile:BotW Calamity Ganon Model.png||''Scourge of Hyrule Castle''<br>{{Term|BotW|Calamity Ganon|link}}<br>{{Small|''({{Term|BotW|Hyrule Castle (Breath of the Wild)|link}})''}}\nFile:BotW Dark Beast Ganon Model.png||''Hatred and Malice Incarnate''<br>{{Term|BotW|Dark Beast Ganon|link}}<br>{{Small|''({{Term|BotW|Central Hyrule|link}})''}}\n</gallery>\n\n<noinclude>{{Template:BossNav}}[[Category:Boss Galleries]]</noinclude>\n[[fr:Boss_et_Mini-Boss_dans_Breath_of_the_Wild]]\n[[zh-tw:\u300a\u66e0\u91ce\u4e4b\u606f\u300b\u7684\u9996\u9818]]"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

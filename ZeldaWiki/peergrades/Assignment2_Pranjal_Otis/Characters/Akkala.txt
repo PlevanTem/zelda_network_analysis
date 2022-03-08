@@ -1,0 +1,53 @@
+{{Infobox Location
+|image= File:BotW Akkala.png
+|caption= 
+|game= {{BotW}}
+|other= {{HWAoC}}
+|inhab= 
+|items= 
+|related= 
+|season= 
+|theme= 
+}}
+{{Term/Store|Akkala||Series, BotW, HWAoC}} is a recurring {{Term|Series|Region|link}} in {{TLoZ|series}}.<ref>{{Cite|{{Big|Akkala}}|Map|BotW}}</ref>{{Note|{{Term|Series|Akkala}} was referred to as '''Altum''' in the {{Term|BotW|Overworld|link}} map from the Master Edition of {{BotW}}.{{Fact}} However, as this contradicts the name given in {{BotW|-}}, it is not considered [[Guidelines:Canon|Canon]].}}{{Name Ref|HWAoC}}
+
+==Features and Overview==
+==={{BotW|-}}===
+{{Stub|BotW}}
+The Akkala Region is a rather large highlands region located in north-east Hyrule, home of the {{Term|BotW|Akkala Ancient Tech Lab|link}}. 
+
+====Akkala Highlands====
+{{Main|Akkala Highlands}}
+The Akkala Highlands make up the southern portion of Akkala.
+
+====Akkala Sea====
+{{Main|Akkala Sea}}
+
+====Deep Akkala====
+{{Main|Deep Akkala}}
+There are many regions in Northern Akkala.
+
+==Other Appearances==
+==={{HWAoC|-}}===
+{{Noncanon|Start}}
+{{Stub|HWAoC}}
+{{Noncanon|End}}
+
+==Trivia==
+There is a rumour that there is a special version of the game {{Wp|Rock paper scissors}} only played in {{Term|BotW|Akkala}}.<ref>{{Cite|I heard there's a special version of rock, paper, scissors played in the Akkala region, but it's probably just a rumor.|Pitar|BotW}}</ref> This hearsay appears to have spread to the {{Plural|BotW|Goron|link}} of {{Term|BotW|Eldin|link}}.<ref>{{Cite|Goron bodies are as tough as rocks. Impervious to heat, strong against scissors, and weak to paper. No, wait... That is... Yes. I definitely confused Gorons with rock-paper-scissors.|Kairo|BotW}}</ref>
+
+==Nomenclature==
+{{Nomenclature}}
+
+==Gallery==
+<gallery>
+File:BotW CaC Akkala Map.png|Region boundaries as seen in {{CaC}}
+</gallery>
+
+{{Notes}}
+{{Ref}}
+
+{{Categories
+ |Akkala, Regions
+ |locations= BotW, HWAoC
+}}

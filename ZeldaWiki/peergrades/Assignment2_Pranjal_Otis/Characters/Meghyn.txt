@@ -1,0 +1,31 @@
+{{Infobox Character
+|image= File:BotW Meghyn Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= Female
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= {{Term|BotW|Nat|link}} {{Small|(sister)}}
+|voiceactor=
+|theme= 
+|counter= 
+}}
+{{Term/Store|Meghyn||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Meghyn|N/A|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+{{Term|BotW|Meghyn}} is seen being attacked by {{Plural|BotW|Bokoblin|link}} with her sister {{Term|BotW|Nat|link}} while collecting {{Plural|BotW|Hearty Truffle|link}} outside of {{Term|BotW|Hateno Village|link}}.<ref>{{Cite|We were minding our own business, hunting for truffles, and then wham! Monsters out of nowhere.|Meghyn|BotW}}</ref> She seems to harbor some sort of resentment towards her sister for being somewhat controlling of her.<ref>{{Cite|Ooooh... I blame my sister entirely for this. "Let's go hunt for truffles!" she says. "It'll be fun!" she says.|Meghyn|BotW}}</ref>
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+
+{{Categories
+ |Hylians, Hyruleans
+ |characters= BotW
+}}

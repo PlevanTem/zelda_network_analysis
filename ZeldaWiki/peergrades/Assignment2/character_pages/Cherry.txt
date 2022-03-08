@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"120029":{"pageid":120029,"ns":0,"title":"Cherry","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Ancient Oven]]\n{{Synonym}}"}}}]}}}}

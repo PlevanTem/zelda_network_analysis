@@ -1,0 +1,54 @@
+{{Infobox Enemy
+|image= File:BotW Silver Lynel Model.png
+|caption= A {{Term|BotW|Silver Lynel}}, as seen in {{BotW|-}}
+|pronunciation= 
+|plural= 
+|race= {{Term|Series|Lynel|link}}
+|game= {{BotW}}
+|other= {{HWAoC}}
+|habitat=
+{{Infobox Game Blocks
+ |BotW= {{Term|BotW|Hyrule Castle (Breath of the Wild)|link}} {{Exp|Master Mode}}
+}}
+|member= 
+|health= 5000
+|attack= 
+|weapon= 
+|spoils=
+{{Infobox Game Blocks
+ |BotW= {{Term|BotW|Lynel Horn|link}}<br>{{Term|BotW|Lynel Hoof|link}}<br>{{Term|BotW|Lynel Guts|link}}<br>{{Term|BotW|Topaz|link}}<br>{{Term|BotW|Ruby|link}}<br>{{Term|BotW|Sapphire|link}}<br>{{Term|BotW|Diamond|link}}<br>{{Term|BotW|Star Fragment|link}}
+}}
+|exp= 
+|theme= 
+}}
+{{Term/Store|Silver Lynel|Silver Lynels|Series, BotW|plural}} are recurring {{Plural|Series|Enemy|link}} in {{TLoZ|Series}}.<ref>{{Cite|'''{{Color|BotW Shrine Quest|Silver Lynel}}'''|Hyrule Compendium|BotW}}</ref>{{Name Ref|HWAoC}}
+
+==Characteristics==
+==={{BotW|-}}===
+{{Compendium/Extract|Silver Lynel}}
+Silver Lynels are a variant of [[Lynel]] under the influence of Ganon's dark magic.<ref>{{Cite|They have been influenced by Ganon's fiendish magic, so they are the strongest among the Lynel species, surpassing even the strength of those with white manes.|Hyrule Compendium|BotW}}</ref> Like other Lynels, it will often refrain from attacking for a short period of time after spotting Link, instead opting to stare down its opponent until they start their battle by roaring loudly and slamming their Weapon on the ground to cause a fiery explosion around itself. They carry the "Savage" Lynel set like the [[White-Maned Lynel]]s, but their Weapons possess various bonuses. When defeated, Silver Lynels may drop [[Lynel Horn]]s, [[Lynel Hoof]]s, [[Lynel Guts]], [[Topaz]], [[Ruby|Rubies]], [[Sapphire]], [[Diamond]]s, and [[Star Fragment]]s.
+
+==Other Appearances==
+==={{HWAoC|-}}===
+{{Noncanon|Start}}
+{{Stub|HWAoC}}
+{{Noncanon|End}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+==See Also==
+*{{Term|Series|Black Lynel|link}}
+*{{Term|Series|Blue-Maned Lynel|link}}
+*{{Term|Series|Golden Lynel|link}}
+*{{Term|Series|Lynel|link}}
+* {{Term|Series|Malice Lynel|link}}
+*{{Term|Series|Purple Lynel|link}}
+*{{Term|Series|White-Maned Lynel|link}}
+
+{{Ref}}
+
+{{Categories
+ |Lynels
+ |enemies= BotW, HWAoC
+}}

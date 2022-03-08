@@ -1,0 +1,36 @@
+{{Infobox Character
+|image= File:BotW Tottika Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Zora|link}}
+|gender= Male
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Tottika||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Tottika|N/A|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+
+Tottika is a guard for {{Term|BotW|Zora's Domain|link}} who can be seen holding a [[Silverscale Spear]].
+
+He is a new recruit. He tells Link about the existence of the Master Sword, and then adds that he wishes to become a great warrior worthy of being chosen by a weapon.
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+{{Categories
+ |Hyruleans, Zora
+ |characters= BotW
+}}
+[[es:Takro]]
+[[fr:Tacca]]
+[[zh-tw:泰喀]]

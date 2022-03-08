@@ -1,0 +1,34 @@
+:''This article is about the character from {{BotW}}. For similar characters, see [[Mary]].''
+{{DISPLAYTITLE: Mary ({{BotW|-}})}}
+{{Infobox Character
+|image=
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Horse|link}}
+|gender= Female
+|game= {{BotW}}
+|other= 
+|era= 
+|family= {{Term|BotW|Harry (Breath of the Wild)|link}} {{Small|(mate)}}
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Mary||Series, BotW}} is a character mentioned in {{BotW}}.<ref>{{Cite|As I grew older, I learned to overcome my grief over losing them. You can't change the past, only the future. {{Color|BotW Blue|Harry}} and {{Color|BotW Blue|Mary}} never made it back, but two of their descendants are in that stall over there. My only friends out in these parts were horses, you see. I suppose that's still true to this day.|Monkton|BotW}}</ref>
+
+==Biography==
+{{Term|BotW|Mary (Breath of the Wild)}} was a female {{Term|BotW|Horse|link}} who lived at {{Term|BotW|Snowfield Stable|link}} with her mate {{Term|BotW|Harry (Breath of the Wild)|link}} and {{Term|BotW|Monkton|link}} when he was a child. {{Term|BotW|Monkton}} was an adventurous child and, as there were no other children around for him to play with, he befriended {{Term|BotW|Mary (Breath of the Wild)}} and {{Term|BotW|Harry (Breath of the Wild)}} and took them with him on his adventures. One day, while investigating the {{Term|BotW|Forgotten Temple|link|display= ruins}} of {{Term|BotW|Tanagar Canyon|link}}, {{Term|BotW|Mary (Breath of the Wild)}} lost her footing and fell to her apparent death.
+
+{{Term|BotW|Harry (Breath of the Wild)}} and {{Term|BotW|Mary (Breath of the Wild)}}'s descendants currently live in the stalls next to {{Term|BotW|Snowfield Stable}}, where they are looked after by an elderly {{Term|BotW|Monkton}} who is determined to take better care of them than he did with their ancestors.
+
+==Trivia==
+*{{Term|BotW|Mary (Breath of the Wild)}} and her mate {{Term|BotW|Harry (Breath of the Wild)|link}} are likely a reference to {{Term|ST|Mary (Spirit Tracks)|link}} and {{Term|ST|Harry (Spirit Tracks)|link}}, a wife and husband from {{ST}}.
+
+{{Ref}}
+
+{{Categories
+ |Horses, Hyruleans
+ |characters= BotW
+}}

@@ -1,0 +1,30 @@
+{{Infobox Character
+|image= File:BotW Marot Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Zora|link}}
+|gender= Female
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= [[Dento]] <small>(Grandfather)</small>
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Marot||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Marot|N/A|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+Marot works outside of [[Marot Mart]] in [[Zora's Domain]], answering any questions [[Link]] should have about the general store and the workshop. If Link asks about Marot Mart, she will sing the jingle she has made for her store.
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+{{Categories
+ |Hyruleans, Zora
+ |characters= BotW
+}}

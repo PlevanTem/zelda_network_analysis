@@ -1,0 +1,53 @@
+{{Infobox Character
+|image= File:BotW Kanny Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= 
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= 
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Kanny||Series}} is a character in {{BotW}}.<ref>{{Cite|People come from far and wide to buy mushrooms from Kanny, the mushroom man!|Kanny|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+
+===Wares and Pricing===
+{{Tab2
+|format= top
+|align= 
+|default= 1
+|tabwidth= 12em
+|tab1= Normal Weather
+|content1= {{ShopItem/h|desc=yes}}
+{{ShopItem|BotW|Chillshroom|16|quantity=3|typeimg=Icon|desc=Often found at the base of pine trees in cold climates, these mushrooms are cool to the touch and can be used to cook dishes that allow you to stay cool even in arid regions.|dispname=Chillshrooms}}
+{{ShopItem|BotW|Sunshroom|16|quantity=3|typeimg=Icon|desc=A bright red mushroom that grows in hot climates. Imbued with the power of heat, they can be used to cook dishes that will allow you endure the bitter cold.|dispname=Sunshrooms}}
+{{ShopItem|BotW|Zapshroom|16|quantity=3|typeimg=Icon|desc=This mushroom grows wild in the Gerudo region. The cap is naturally insulated, so when used in cooking, it will offer protection against electricity.|dispname=Zapshrooms}}
+{{ShopItem|BotW|Stamella Shroom|20|quantity=1|typeimg=Icon|desc=A green mushroom that grows near trees in the forest. It's chock-full of natural energy. Cook it to release its stamina-restoration properties.}}
+{{!)}}
+|tab2= Rain
+|content2= 
+{{ShopItem/h|desc=yes}}
+{{ShopItem|BotW|Razorshroom|20|quantity=3|typeimg=Icon|desc=This mushroom is known for the natural slice in its cap. Eating it fosters your competitive spirit. Use it when cooking to prepare a dish that will increase your strength.|dispname=Razorshrooms}}
+{{ShopItem|BotW|Ironshroom|20|quantity=3|typeimg=Icon|desc=The cap of this mushroom is very hard. Use it when cooking to prepare a dish that increases your defense.|dispname=Ironshrooms}}
+{{ShopItem|BotW|Endura Shroom|24|quantity=3|typeimg=Icon|desc=A rare yellowish-orange mushroom. Cook it before eating to temporarily increase your stamina limit.|dispname=Endura Shrooms}}
+{{ShopItem|BotW|Hearty Truffle|24|quantity=2|typeimg=Icon|desc=This rare mushroom has a rich scent. Cook it before eating to temporarily increase your maximum hearts.|dispname=Hearty Truffles}}
+{{ShopItem|BotW|Big Hearty Truffle|60|quantity=1|typeimg=Icon|desc=Years of going unpicked have allowed this hearty truffle to grow quite large. It's chock-full of nutrients. When cooked into a dish, it temporarily increases your maximum hearts.}}
+{{!)}}
+}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+{{Categories
+ |Hylians, Hyruleans, Merchants
+ |characters= BotW
+}}

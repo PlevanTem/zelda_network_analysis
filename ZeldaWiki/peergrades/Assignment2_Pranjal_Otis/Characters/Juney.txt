@@ -1,0 +1,29 @@
+{{Infobox Character
+|image= File:BotW Juney Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= Female
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= {{Term|BotW|Jogo|link}} {{Small|(husband)}}{{Fact|BotW}}
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Juney||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Juney|N/A|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+{{Categories
+ |Hylians, Hyruleans
+ |characters= BotW
+}}

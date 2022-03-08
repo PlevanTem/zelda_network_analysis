@@ -1,0 +1,34 @@
+{{Infobox Character
+|image= File:BotW Keye Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Zora|link}}
+|gender= Male
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= [[Mei]] <small>(Mother)</small> <br> [[Fronk]] <small>(Father)</small><br>
+[[Tumbo]] <small>(Brother)</small>
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Keye||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Keye|N/A|BotW}}</ref>
+
+==Biography==
+Keye is a {{Term|BotW|Zora|link}} child who can be found playing around [[Mipha]]'s statue in {{Term|BotW|Zora's Domain|link}}.
+
+He is much more reserved than his brother, but can also be seen as a bit more rude: when {{Term|BotW|Link|link}} asks him how he is doing while his mother is away, Keye tells Link to leave him alone. In his first dialogue with Link, he tells Link that his father forbade him to talk to strangers.
+
+After [[Divine Beast Vah Ruta]] has been calmed, Link can ask Keye what he's doing. Keye will respond that he's practicing his spear moves and will jab his stick towards the ground. He laments that he can't jump very high.<ref>{{Cite|But I can't even jump high enough to read Lady Mipha's {{Color|BotW Red|pedestal}}.|Keye|BotW}}</ref>
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+{{Categories
+ |Hyruleans, Zora
+ |characters= BotW
+}}

@@ -1,0 +1,31 @@
+{{Infobox Character
+|image= File:BotW Dauntless Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Horse|link}}
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= {{Term|BotW|Nazbi|link}} {{Small|(owner)}}
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Dauntless||Series, BotW}} is a character in {{BotW}}.<ref name="Noble">{{Cite|Heigh-ho, Dauntless, my noble steed!|Nazbi|BotW}}</ref>
+
+==Biography==
+Dauntless is a [[horse]] belonging to [[Nazbi]], a [[Hylian]] treasure hunter.<ref name="Noble"/> Together they can be found traveling around [[Serenne Stable]], the [[Tabantha Bridge Stable]], and [[Snowfield Stable]].
+
+Nazbi claims to have become dependent upon Dauntless, being unable to run a few steps on his own without getting winded.<ref>{{Cite|After riding Dauntless here for so long, I can only run a few steps before I'm totally winded.|Nazbi|BotW}}</ref> Nazbi shows a great deal of affection toward Dauntless, who he describes as his "beloved Dauntless," "dear horse,"<ref>{{Cite|Oh, my beloved Dauntless... My dear horse is every bit an adventurer as I!|Nazbi|BotW}}</ref> "noble steed,"<ref name="Noble"/> and "equal partner."<ref>{{Cite|Thank you, my noble Dauntless! We are equal partners even though you do all the work!|Nazbi|BotW}}</ref>
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+{{Categories
+ |Horses, Hyruleans
+ |characters= BotW
+}}

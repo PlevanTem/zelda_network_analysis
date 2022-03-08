@@ -1,0 +1,86 @@
+{{Infobox Location
+|image= File:BotW Koroks.png
+|caption= 
+|pronunciation= 
+|game= {{BotW}}
+|other={{HWAoC}} 
+|inhab= [[The Great Deku Tree]]<br>[[Koroks]]<br>[[Hestu]]
+|items= [[Master Sword]]
+|related= [[Great Hyrule Forest]]<br>[[Lost Woods]]
+|season= 
+|theme= 
+}}
+The {{Term/Store|Korok Forest||Series, BotW}} is a location in {{BotW}}.<ref>{{Cite|'''Korok Forest'''|Map|BotW}}</ref>
+
+==Features and Overview==
+The Korok Forest is located north of [[Hyrule Castle (Breath of the Wild)|Hyrule Castle]] in the [[Great Hyrule Forest]]. Mainly consisting of [[The Great Deku Tree]], many [[Korok]]s live there as well. It is also home to the [[Master Sword]]. In order to reach Korok Forest, one must travel through the [[Lost Woods]].
+
+The forest has many flowers and trees, as well as shallow water along the ground. [[Acorn]]s are abundant, and the paths in the forest are lined with {{Plural|BotW|Bean Lamp|link}}.<ref>{{Cite|The {{Color|BotW Blue|bean lamps}} act as landmarks. You'll want to familiarize yourself with them to make it easier to find your way around.|Maca|BotW}}</ref> Inside The Great Deku Tree, there is the [[General Shoppe]], the [[Spore Store]], and an Inn, as well as a [[Statue of the Goddess]].
+
+The [[Keo Ruug Shrine]] is located to the right of The Great Deku Tree.
+
+==={{Plural|BotW|Creature}}===
+<gallery>
+File:BotW Rugged Rhino Beetle Model.png|{{Term|BotW|Bladed Rhino Beetle|link}}
+File:BotW Blue Sparrow Model.png|{{Term|BotW|Blue Sparrow|link}}
+File:BotW Fairy Model.png|{{Term|BotW|Fairy|link}}
+File:BotW Golden Sparrow Model.png|{{Term|BotW|Golden Sparrow|link}}
+File:BotW Hightail Lizard Model.png|{{Term|BotW|Hightail Lizard|link}}
+File:BotW Hot-Footed Frog Model.png|{{Term|BotW|Hot-Footed Frog|link}}
+File:BotW Pink Heron Model.png|{{Term|BotW|Pink Heron|link}}
+File:BotW Restless Cricket Model.png|{{Term|BotW|Restless Cricket|link}}
+File:BotW Summerwing Butterfly Model.png|{{Term|BotW|Summerwing Butterfly|link}}
+File:BotW Sunset Firefly Model.png|{{Term|BotW|Sunset Firefly|link}}
+File:BotW Warm Darner Model.png|{{Term|BotW|Warm Darner|link}}
+File:BotW Wood Pigeon Model.png|{{Term|BotW|Wood Pigeon|link}}
+</gallery>
+
+==={{Plural|BotW|Material}}===
+<gallery>
+File:BotW Bird Egg Model.png|{{Term|BotW|Bird Egg|link}}
+File:BotW Chickaloo Tree Nut Model.png|{{Term|BotW|Chickaloo Tree Nut|link}}
+File:BotW Endura Shroom Model.png|{{Term|BotW|Endura Shroom|link}}
+File:BotW Hylian Shroom Model.png|{{Term|BotW|Hylian Shroom|link}}
+File:BotW Rushroom Model.png|{{Term|BotW|Rushroom|link}}
+File:BotW Silent Princess Model.png|{{Term|BotW|Silent Princess|link}}
+File:BotW Stamella Shroom Model.png|{{Term|BotW|Stamella Shroom|link}}
+</gallery>
+
+===Equipment===
+<gallery>
+File:BotW Forest Dweller's Shield Model.png|{{Term|BotW|Forest Dweller's Shield|link}}
+File:BotW Forest Dweller's Spear Model.png|{{Term|BotW|Forest Dweller's Spear|link}}
+File:BotW Korok Leaf Model.png|{{Term|BotW|Korok Leaf|link}}
+File:BotW Master Sword Model.png|{{Term|BotW|Master Sword|link}}
+File:BotW Soup Ladle Model.png|{{Term|BotW|Soup Ladle|link}}
+File:BotW Tree Branch Model.png|{{Term|BotW|Tree Branch|link}}
+</gallery>
+
+==={{Term|BotW|General Shoppe}}===
+{{Main|General Shoppe}}
+
+==={{Term|BotW|Great Deku Tree's Navel}}===
+{{Main|Great Deku Tree's Navel}}
+
+==={{Term|BotW|Spore Store}}===
+{{Main|Spore Store}}
+
+== Other Appearances ==
+{{Noncanon}}
+
+=== ''Hyrule Warriors: Age of Calamity'' ===
+In [[Hyrule Warriors: Age of Calamity]], Korok Forest first appears in the [[Scenario]], "[[Freeing Korok Forest]]." In the first battle, Korok Forest could be seen from above from [[Divine Beast]] [[Divine Beast Vah Medoh|Vah Medoh]]. In the second battle, [[Link]] and [[Princess Zelda|Zelda]] destroy the [[Malice]] swamp blocking the way to Korok Forest, and defeat [[Astor]], who was in Korok Forest. Link was also able to get the Master Sword there.
+
+==Nomenclature==
+{{Nomenclature}}
+
+==See Also==
+* [[Great Hyrule Forest]]
+* [[Lost Woods]]
+
+{{Ref}}
+
+{{Categories
+ |Forests, Great Hyrule Forest, Korok Forest
+ |locations= BotW
+}}

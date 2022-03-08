@@ -1,0 +1,62 @@
+{{Infobox Character
+|image= File:BotW Walton Model.png
+|caption= 
+|title= 
+|race= [[Korok]]
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= 
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Walton||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Walton|N/A|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+Walton can be found outside atop of the [[Great Deku Tree]] in the [[Korok Forest]]. When spoken with, Walton gives [[Link]] the "[[Riddles of Hyrule]]" [[Side Quest]].
+
+==Trivia==
+*Walton's leaf mask and appearance resemble [[Drona (Korok)|Drona]] from {{TWW}}.
+
+==Nomenclature==
+{{Names
+|align= left
+|enBr= 
+|enBrM= 
+|ja= 
+|jaM= 
+|esS= 
+|esSM= 
+|esL= 
+|esLM= 
+|frF= Cernus
+|frFM= 
+|frC= 
+|frCM= 
+|de= 
+|deM= 
+|it= 
+|itM= 
+|ptP= 
+|ptPM= 
+|ptB= 
+|ptBM= 
+|nl= 
+|nlM= 
+|ru= 
+|ruM= 
+|ko= 
+|koM= 
+|zhT= 
+|zhTM= 
+|zhS= 
+|zhSM= }}
+
+{{Ref}}
+{{Categories
+ |Koroks
+ |characters= BotW
+}}

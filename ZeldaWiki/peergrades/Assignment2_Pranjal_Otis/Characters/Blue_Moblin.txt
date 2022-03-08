@@ -1,0 +1,85 @@
+{{Infobox Enemy
+|image= 
+{{Media
+ |Artwork TAoL= File:TAoL Blue Moblin Artwork.png
+ |Model BotW= File:BotW Blue Moblin Model.png
+ |Model StBotW= File:StBotW Blue Moblin Model.png
+ |Sprite TLoZ= File:TLoZ Moblin Blue Sprite.png
+ |Sprite TAoL= File:TAoL Blue Moblin Holding Spear Sprite.png
+ |Sprite OoS= File:OoS Moblin Blue Sprite.png
+ |Sprite OoA= File:OoA Moblin Blue Sprite.png
+}}
+|caption= 
+|race= {{Term|Series|Moblin|link}}
+|game= {{TLoZ}}<br>{{TAoL}}<br>{{OoS}}<br>{{OoA}}<br>{{BotW}}<br>{{StBotW}}
+|other= {{HWAoC}}
+|habitat= {{Term|BotW|Hyrule Field|link}} {{Exp Game|BotW}}<br>[[Deep Akkala]] {{Exp Game|BotW}}
+|member= 
+|health= 144
+|attack=
+|weapon= 
+|spoils= [[Moblin Horn]] {{Exp Game|BotW}}<br>[[Moblin Fang]] {{Exp Game|BotW}}<br>[[Moblin Guts]] {{Exp Game|BotW}}
+|exp= 
+|theme= 
+}}
+{{Term/Store|Blue Moblin|Blue Moblins|Series, BotW|plural}} are recurring {{Plural|Series|Enemy|link}} in {{TLoZ|Series}}.<ref>{{Cite|'''{{Color|BotW Shrine Quest|Blue Moblin}}'''|Hyrule Compendium|BotW}}</ref>{{Name Ref|TLoZ, TAoL, OoS, OoA, StBotW}}
+
+==Characteristics==
+==={{TLoZ|-}}===
+Blue Moblins first appear in [[The Legend of Zelda]], being seen in forest areas like the [[Lost Woods]]. They act the same as Moblins, but can withstand more hits.
+
+==={{TAoL|-}}===
+Blue Moblins later reappear in [[Zelda II: The Adventure of Link]], being the strongest Moblin in the game. Like the other Moblins in ''The Adventure of Link'', they attack by throwing their spears or jabbing Link with them, while also draining his experience points if they land a hit on him.
+
+==={{OoS|-}}===
+{{Stub|OoS}}
+
+==={{OoA|-}}===
+{{Stub|OoA}}
+
+==={{BotW|-}}===
+{{Compendium/Extract|Blue Moblin}}
+Reappearing for the first time since the ''Oracle'' games, Blue Moblins are found all over [[Hyrule]] and are now tall and heavy, similar to the normal Moblins.<ref>{{Cite|These heavyweight monsters can be found all over Hyrule.|Hyrule Compendium|BotW}}</ref> They are tougher variants of [[Moblin]]s and often have stronger Moblin {{Plural|BotW|Weapon|link}}, though they are now outclassed by [[Black Moblin]]s and [[Silver Moblin]]s.<ref>{{Cite|They're much tougher than their standard counterparts and often have much stronger weapons equipped.|Hyrule Compendium|BotW}}</ref> When defeated, they drop [[Moblin Horn]]s, [[Moblin Fang]]s, and [[Moblin Guts]].
+
+==={{StBotW|-}}===
+{{Future Release}}
+{{Stub|StBotW}}
+{{Plural|StBotW|Blue Moblin}} are set to reappear in {{StBotW|-}}.
+
+==Other Appearances==
+==={{HWAoC|-}}===
+{{Noncanon|Start}}
+Blue Moblins reappear in {{HWAoC}}, first seen in [[The Yiga Clan Attacks!]]. Like Moblins in this game, they attack with either their fists or weapons like [[Moblin Spear]]s, [[Moblin Club]]s, and any metal weapons, which can be countered with [[Stasis]], [[Cryonis]], and the [[Magnesis]] Shiekah Runes, thus exposing their [[Weak Point Gauge]].
+{{Noncanon|End}}
+
+==Nomenclature==
+{{Names
+|align= left
+|enBr= 
+|enBrM= 
+|ja= {{Romanize|青モリブリン|Blue Molybdenum}}
+|jaM= Blue Moblin {{Exp Game|BotW, HWAoC}}
+{{Nomenclature}}
+
+==Gallery==
+<gallery>
+File:BotW Moblin Concept Artwork.png|Concept art of Moblins in {{BotW|-}}
+</gallery>
+
+==See Also==
+* {{Term|Series|Moblin|link}}
+* {{Term|Series|Black Moblin|link}}
+* {{Term|Series|Electric Moblin|link}}
+* {{Term|Series|Fire Moblin|link}}
+* {{Term|Series|Ice Moblin|link}}
+* {{Term|Series|Silver Moblin|link}}
+* {{Term|Series|Golden Moblin|link}}
+* {{Term|Series|Stalmoblin|link}}
+*[[Malice Moblin]]
+
+{{Ref}}
+
+{{Categories
+ |Moblins
+ |enemies= TLoZ, TAoL, OoS, OoA, BotW, StBotW, HWAoC
+}}

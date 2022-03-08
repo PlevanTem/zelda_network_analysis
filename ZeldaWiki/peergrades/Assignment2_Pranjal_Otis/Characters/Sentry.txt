@@ -1,0 +1,40 @@
+{{Infobox Enemy
+|image= File:BotW Sentry Model.png
+|caption= 
+|race= 
+|game= {{BotW}}
+|other= 
+|habitat= [[Death Mountain]]
+|member= 
+|health= 1000
+|attack= 
+|weapon= 
+|spoils= 
+|exp= 
+|theme= 
+}}
+{{Term/Store|Sentry|Sentries|Series, BotW|plural}} are enemies in {{BotW}}.<ref>{{Cite|'''{{Color|BotW Shrine Quest|Sentry}}'''|Hyrule Compendium|BotW}}</ref>
+
+==Characteristics==
+{{Compendium/Extract|Sentry}}
+Sentries are a type of flying {{Term|BotW|Guardian|link}}, similar to {{Plural|BotW|Guardian Skywatcher|link}}, that only appear on {{Term|BotW|Death Mountain|link}} during the "{{Term|BotW|Divine Beast Vah Rudania (Quest)|link}}" {{Term|BotW|Main Quest|link}}. Rudania dispatches Sentries as {{Term|BotW|Link|link}} and {{Term|BotW|Yunobo|link}} approach Death Mountain to hinder them as they attempt to disable Rudania.<ref>{{Cite|These sentries dispatched from Divine Beast Vah Rudania are equipped with searchlights that can spot intruders.|Hyrule Compendium|BotW}}</ref><ref>{{Cite|Oh... Yikes... A {{Color|BotW Blue|sentry}} is always a nuisance, no matter where it is or how many of them there are.|Yunobo|BotW}}</ref> Sentries use red searchlights along the path up the Mountain which, should Link or Yunobo be spotted, will cause Rudania to furiously unleash [[Magma Bomb]]s at them.<ref>{{Cite|If one finds you, {{Color|BotW Blue|Rudania}} will go nuts, which will cause {{Color|BotW Blue|Death Mountain}} to erupt, goro. I...always get spotted, and then {{Color|BotW Blue|magma bombs}} come raining down one after another.|Yunobo|BotW}}</ref>
+
+While Sentries have a high amount of health at 1000, they are extremely weak to {{Plural|BotW|Remote Bomb|link}} and are one of the few enemies that can be taken down with a single bomb.
+
+==Nomenclature==
+{{Nomenclature}}
+
+==Gallery==
+<gallery>
+File:BotW Divine Beast Vah Rudania Sentries.png|{{Term|BotW|Divine Beast Vah Rudania|link}} deploying Sentries
+</gallery>
+
+==See Also==
+* [[Guardian Skywatcher]]
+
+{{Ref}}
+
+{{Categories
+ |Ancient Technology, Guardians
+ |enemies= BotW
+}}

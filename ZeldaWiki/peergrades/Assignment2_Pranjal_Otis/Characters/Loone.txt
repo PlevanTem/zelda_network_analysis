@@ -1,0 +1,29 @@
+{{Infobox Character
+|image= File:BotW Loone Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= Female{{Fact}}
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Loone||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Loone|N/A|BotW}}</ref>
+
+==Biography==
+Loone is a character who resides on {{Term|BotW|Puffer Beach|link}}. She has a crazed personality and is obsessed with {{term|BotW|Sheikah|link}} technology. When {{Term|BotW|Link|link}} first encounters her, she is seen caressing an {{Term|BotW|Ancient Orb|link}} which she calls {{Term|BotW|Roscoe|link}}. In the {{Term|BotW|Guardian Slideshow|link}} side quest, {{Term|BotW|Link}} must show her various pictures of different types of {{Plural|BotW|Guardian|link}}, in order to get {{Term|BotW|Roscoe}} from her possession.
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+{{Categories
+ |Hylians, Hyruleans
+ |characters= BotW
+}}

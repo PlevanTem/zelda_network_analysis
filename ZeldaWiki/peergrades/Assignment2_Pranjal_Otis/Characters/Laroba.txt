@@ -1,0 +1,69 @@
+{{Infobox Character
+|image= File:BotW Laroba Model.png
+|caption= 
+|title= 
+|race= [[Gerudo]]
+|gender= Female
+|game= {{BotW}}
+|other= 
+|era= 
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Laroba||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Laroba|N/A|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+Laroba is a [[Gerudo]] traveler.
+
+==Nomenclature==
+{{Names
+|align= left
+|ja= 
+|jaM= 
+|zhS= 
+|zhSM= 
+|zhT= 
+|zhTM= 
+|nl= 
+|nlM= 
+|fi= 
+|fiM= 
+|frC= 
+|frCM= 
+|frF= Zannelle
+|frFM= 
+|de= 
+|deM= 
+|he= 
+|heM= 
+|hu= 
+|huM= 
+|it= 
+|itM= 
+|ko= 
+|koM= 
+|no= 
+|noM= 
+|pl= 
+|plM= 
+|ptB= 
+|ptBM= 
+|ptP= 
+|ptPM= 
+|ru= 
+|ruM= 
+|esS= 
+|esSM= 
+|esL= 
+|esLM= }}
+
+{{Ref}}
+{{Categories
+ |Gerudo
+ |characters= BotW
+}}
+
+[[de-niwa:Balora]]

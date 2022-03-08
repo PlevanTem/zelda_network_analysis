@@ -1,0 +1,35 @@
+{{Infobox Character
+|image= File:BotW Kiana Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Kiana||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Kiana|N/A|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+==Gallery==
+<gallery>
+File:BotW Kiana and Kinov.jpg|{{Term|BotW|Kiana}} and {{Term|BotW|Kinov}} near a {{Term|BotW|Cooking Pot}}
+</gallery>
+
+{{Ref}}
+
+{{Categories
+ |Hylians, Hyruleans, Lurelin Villagers
+ |characters= BotW
+}}

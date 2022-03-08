@@ -1,0 +1,29 @@
+{{Infobox Character
+|image= File:BotW Kaifa Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= Hylian
+|gender= Female<ref name="Kaifa">{{Cite|I'm Jana, the second eldest. I'm in charge of the flower patch. My big sister, Kaifa, is in the back taking care of the livestock.|Jana|BotW}}</ref>
+|game= {{BotW}}
+|other= 
+|era= 
+|family= [[Dmitri]] {{Small|(father)}}<ref>{{Cite|What an adorable horse! Go talk to my dad if you want to register it.|Gleema|BotW}}</ref><br>[[Jana]] {{Small|(younger sister)}}<ref name="Kaifa"/><br>[[Gleema]] {{Small|(younger sister)}}<ref name="Insects">{{Cite|My little sister, Gleema, is looking for {{Color|BotW Blue|insects}} around here today.|Jana|BotW}}</ref>
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Kaifa||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Kaifa|N/A|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+{{Categories
+ |Hylians
+ |characters= BotW
+}}

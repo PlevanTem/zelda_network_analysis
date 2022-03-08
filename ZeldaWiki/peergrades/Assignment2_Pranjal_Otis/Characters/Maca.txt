@@ -1,0 +1,61 @@
+{{Infobox Character
+|image= File:BotW Maca Model.png
+|caption= 
+|title= 
+|race= [[Korok]]
+|gender=
+|game= {{BotW}}
+|other= 
+|era= 
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Maca||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Maca|N/A|BotW}}</ref>
+
+==Biography==
+Maca is a [[Korok]] that lives in the [[Korok Forest]].  Maca can be found outside the entrance of the [[Great Deku Tree]], and provides [[Link]] with information about the forest and [[Master Sword]].  Maca tells Link that the Master Sword may lose power if overused, but will regenerate over time.<ref>{{Cite|Well the {{Color|BotW Blue|Master Sword}} is a very special weapon, but it can lose its power if you overuse it.<br>When that happens, don't panic. All you have to do is wait for its power to regenerate.|Maca|BotW}}</ref> When Link asks about leaving the forest, Maca questions why he would want to leave this perfect place.<ref>{{Cite|You want to leave the forest? But why? It's perfect here!|Maca|BotW}}</ref> Regardless, Maca tells Link that he can leave the woods by warping through the mouth of an Ogre Tree east from the sword pedestal.<ref>{{Cite|If you head east from the {{Color|BotW Red|sword pedestal}}, there will be a sign on your right. Climb up the hill on the right side of the sign, and you'll see an {{Color|BotW Red|ogre tree}}. If you walk into that tree's mouth, you'll *whoosh* be taken to the entrance of the woods.|Maca|BotW}}</ref>
+
+==Trivia==
+*Maca's leaf mask and appearance resemble [[Hollo]] from {{TWW}}.
+
+==Nomenclature==
+{{Names
+|align= left
+|enBr= 
+|enBrM= 
+|ja= 
+|jaM= 
+|esS= 
+|esSM= 
+|esL= 
+|esLM= 
+|frF= Makus
+|frFM= 
+|frC= 
+|frCM= 
+|de= 
+|deM= 
+|it= 
+|itM= 
+|ptP= 
+|ptPM= 
+|ptB= 
+|ptBM= 
+|nl= 
+|nlM= 
+|ru= 
+|ruM= 
+|ko= 
+|koM= 
+|zhT= 
+|zhTM= 
+|zhS= 
+|zhSM= }}
+
+{{Ref}}
+{{Categories
+ |Koroks
+ |characters= BotW
+}}

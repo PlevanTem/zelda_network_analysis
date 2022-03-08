@@ -1,0 +1,187 @@
+{{Merge|Malice Naydra}}''This article is about {{Term|BotW|Naydra}} after being freed from {{Term|BotW|Malice|link}}. For {{Term|BotW|Naydra}} before being cured, see {{Term|BotW|Malice Naydra|link}}.''
+{{Infobox Animal
+|image= File:BotW Naydra Model.png
+|caption= {{Term|BotW|Naydra}}, as seen in-game.
+|title= 
+|species= {{Term|BotW|Dragon|link}}
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= [[Era of the Wilds]]
+|family= 
+|voiceactor= 
+|theme= 
+|nocat= 
+}}
+{{Term/Store|Naydra||Series, BotW}} is a [[Dragon]] in {{BotW}}.<ref>{{Cite|'''{{Color|BotW Shrine Quest|Naydra}}'''|Hyrule Compendium|BotW}}</ref>
+
+==Characteristics==
+{{Compendium/Extract|Naydra}}
+{{Term|BotW|Naydra}} is one of three roaming {{Plural|BotW|Dragon|link}} in {{Term|BotW|Hyrule|link}}, the others being {{Term|BotW|Dinraal|link}} and {{Term|BotW|Farosh|link}}. While it cannot be defeated, it does not actively try to harm {{Term|BotW|Link|link}}. However, if {{Term|BotW|Link}} gets too close, he will be frozen by the icy aura surrounding its body. {{Term|BotW|Link}} can prevent being frozen by wearing either a full {{Term|BotW|Snowquill Set|link}} that has been enhanced twice by a {{Term|BotW|Great Fairy|link}}, or {{Term|BotW|Zant's Helmet|link}}. {{Term|BotW|Naydra}} will drop different {{Plural|BotW|Material|link}} if {{Term|BotW|Link}} shoots it with a {{Term|BotW|Bow|link}}. Depending on what part of {{Term|BotW|Naydra}} is hit, it will drop either a {{Term|BotW|Shard of Naydra's Horn|link}}, {{Term|BotW|Shard of Naydra's Fang|link}}, {{Term|BotW|Naydra's Claw|link}}, or {{Term|BotW|Naydra's Scale|link}}.
+
+{{Term|BotW|Naydra's Scale}} can be offered at the Spring of Wisdom to reveal the {{Term|BotW|Jitan Sa'mi Shrine|link}}.
+
+===Location===
+{{Term|BotW|Naydra}}, unlike the other dragons, does not roam Hyrule at first. It is first encountered as {{Term|BotW|Malice Naydra|link}} at the [[Spring of Wisdom]]. After {{Term|BotW|Link|link}} has purified {{Term|BotW|Naydra}} of the {{Term|BotW|Malice}}, {{Term|BotW|Naydra}} roams the {{Term|BotW|Lanayru (Region)|link}} and {{Term|BotW|East Necluda|link}} Regions. However, {{Term|BotW|Naydra}} will not appear if {{Term|BotW|Link}} is too close to its spawn point.
+
+====Schedule====
+{| class="wikitable sortable" border="1"
+|-
+!Time
+!Location
+!Behavior
+|-
+|<center>1:00</center>
+|
+|
+|-
+|<center>2:00</center>
+|{{Term|BotW|Rabia Plain|link}}
+|Passing close to {{Term|BotW|Lanayru Heights|link}},
+
+heading east
+|-
+|<center>3:00</center>
+|
+|
+|-
+|<center>4:00</center>
+|
+|
+|-
+|<center>5:00</center>
+|{{Term|BotW|Mount Lanayru|link}}
+|Circling the peak
+|-
+|<center>6:00</center>
+|{{Term|BotW|Lanayru Road - East Gate|link}}
+|Flying low, heading west
+|-
+|<center>7:00</center>
+|
+|
+|-
+|<center>8:00</center>
+|
+|
+|-
+|<center>9:00</center>
+|
+|
+|-
+|<center>10:00</center>
+|{{Term|BotW|Rabia Plain|link}}
+|Flying east
+|-
+|<center>11:00</center>
+|{{Term|BotW|Samasa Plain|link}}
+|Flying low, heading east
+|-
+|<center>12:00</center>
+|{{Term|BotW|Spring of Wisdom|link}}
+|Circling the peak
+|-
+|<center>13:00</center>
+|{{Term|BotW|Lanayru Road - East Gate|link}}
+|Flying low, heading west
+|-
+|<center>14:00</center>
+|{{Term|BotW|Lanayru Heights|link}}
+|Flying high, heading northeast
+|-
+|<center>15:00</center>
+|{{Term|BotW|Trotter's Downfall|link}}
+|Disappearing into the clouds
+|-
+|<center>16:00</center>
+|
+|
+|-
+|<center>17:00</center>
+|{{Term|BotW|Mount Lanayru|link}}
+|Circling the peak
+|-
+|<center>18:00</center>
+|{{Term|BotW|Lanayru Road - East Gate}}
+|Heading West
+|-
+|<center>19:00</center>
+|{{Term|BotW|Lanayru Road - West Gate}}
+|Turning around
+|-
+|<center>20:00</center>
+|{{Term|BotW|Rabia Plain|link}}
+|Heading East
+|-
+|<center>21:00</center>
+|{{Term|BotW|Trotter's Downfall}}
+|Heading East
+|-
+|<center>22:00</center>
+|{{Term|BotW|Lanayru Bay|link}}
+|Heading Southeast
+|-
+|<center>23:00</center>
+|East of {{Term|BotW|Mount Lanayru|link}}
+|Vanishing into the clouds
+|-
+|<center>24:00</center>
+|East of {{Term|BotW|Mount Lanayru}}
+|Vanishing into the clouds
+|}
+
+==Nomenclature==
+{{Term|BotW|Naydra}}'s name is derived from {{Term|Series|Nayru (Goddess)|link|display= Nayru}}.
+{{Names
+|align= left
+|enBr= 
+|enBrM= 
+|ja= {{Romanize|ネルドラ|Nerudora}}
+|jaM=
+|esS= 
+|esSM= 
+|esL= 
+|esLM= 
+|frF= Nedrac
+|frFM= 
+|frC= 
+|frCM= 
+|de= {{De|Naydra}}
+|deM= 
+|it= Neldra
+|itM= 
+|ptP= 
+|ptPM= 
+|ptB= 
+|ptBM= 
+|nl= 
+|nlM= 
+|ru= {{Romanize|Нейдра|Neydra}}
+|ruM= 
+|ko= 
+|koM= 
+|zhT= 
+|zhTM= 
+|zhS= 
+|zhSM= }}
+
+==Gallery==
+<gallery>
+File:BotW Naydra Concept Art.png| Concept art of Naydra 
+</gallery>
+
+==See Also==
+* [[Farosh]]
+* [[Dinraal]]
+* [[Nayru (Goddess)|Nayru]]
+* [[Lanayru (Dragon)]]
+* [[Lanayru (Spirit)]]
+
+
+{{Ref}}
+
+{{Categories
+ |Dragons
+ |characters= BotW
+}}
+[[Category:Articles to be merged]]

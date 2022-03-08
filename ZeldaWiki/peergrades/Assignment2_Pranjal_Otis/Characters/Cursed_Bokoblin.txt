@@ -1,0 +1,59 @@
+{{Infobox Enemy
+|image= 
+{{Media
+ |Render SS= File:SS Cursed Bokoblin Render.png
+ |Model SS= File:SS Cursed Bokoblin Model.png
+ |Model SSHD= File:SSHD Cursed Bokoblin Model.png
+ |Model BotW= File:BotW Cursed Bokoblin Model.png
+}}
+|caption= 
+|race= [[Bokoblin]]
+|game= {{SS}}<br>{{BotW}}
+|other= {{HWAoC}}
+|habitat= [[Ancient Cistern]]<br>[[Sky Keep]]
+|health= 1 {{Exp Game|BotW}}
+|member= 
+|attack= 
+|weapon= [[Whip]]<br>[[Sword]]<br>[[Bomb]]s<br>[[Sacred Shield]]
+|spoils= 
+|exp= 
+|theme= 
+}}
+{{Term/Store|Cursed Bokoblin|Cursed Bokoblins|Series, SS, BotW|plural}} are recurring {{Plural|Series|Enemy|link}} in {{TLoZ|Series}}.<ref>{{Cite Book|quote= |book= E |publisher= |page= 172 {{Exp Game|SS}}}}</ref><ref>{{Cite|'''{{Color|BotW Shrine Quest|Cursed Bokoblin}}'''|Hyrule Compendium|BotW}}</ref> They are an undead variant of [[Bokoblin]] though their appearances differ between games.
+
+==Characteristics==
+==={{SS|-}}===
+{{Fi|Cursed Bokoblin|This horrifying Bokoblin reanimates after death. Analysis indicates it fears pure, shiny items and will {{Color|SS Red|startle at the sight of a sacred shield}}.
+It is able to reanimate purely through its hatred of this world...and its attachment to outlandish underpants.}}
+Undead whose hatred accords them the ability to reanimate, Cursed Bokoblins take on a decaying appearance — with skeletal and bandaged arms, glowing yellow eyes, and chipped horns — and this is further exemplified by the flies swarming around them. They are primarily encountered in the deepest depths of the [[Ancient Cistern]], though they also appear in the [[Sky Keep]]. If [[Link]] is nearby, Cursed Bokoblins will emerge from the ground in large groups and pursue him, attacking by latching onto Link and biting him. In addition to dealing damage, their bite also places a [[Curse]] on Link.
+
+Link can exploit the monsters' fear of shiny objects by holding up either his Sword while it is charged with the [[Skyward Strike]] or the [[Sacred Shield]] (or one of its upgrades) to keep them at bay. Curse Bokoblins can withstand many blows before succumbing, and they often get back up. Using [[Bomb]]s will instantly defeat them, at which point they may drop an [[Evil Crystal]].
+
+==={{BotW|-}}===
+{{Compendium/Extract|Cursed Bokoblin}}
+Cursed Bokoblins appear in {{BotW}} as floating heads, similar to [[Bubble]]s, and are spawned from Malice. They are only found within the four [[Divine Beast]]s and [[Hyrule Castle]], charging at Link if he is within range. The only way to stop Cursed Bokoblins from spawning is to destroy the eye that is creating them.
+
+==Other Appearances==
+{{Noncanon|Start}}
+==={{HWAoC|-}}===
+Curse Bokoblins reappear in {{HWAoC}}, spawning when [[Stalkoblin]]s are defeated. They follow the player around and charge at them. Unlike ''Breath of the Wild'', they are not spawned from Malice and can be permanently defeated.
+{{Noncanon|End}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+==See Also==
+* [[Bubble]]
+* [[Cursed Moblin]]
+* [[Cursed Lizalfos]]
+* [[Malice]]
+* [[ReDead]]
+* [[Stalkoblin]]
+
+{{Ref}}
+
+{{LivingCorpse}}
+{{Categories
+ |Blins, Bokoblins, Cursed Enemies, Undead
+ |enemies= SS, BotW, HWAoC
+}}

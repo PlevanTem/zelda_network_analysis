@@ -1,0 +1,60 @@
+{{Infobox Enemy
+|image= File:BotW Blue Lizalfos Model.png
+|caption= 
+|race= [[Lizalfos]]
+|game= {{BotW}}
+|other= {{CoH}}<br>{{HWAoC}}
+|habitat= [[Gerudo Desert]]<br>[[Tabantha Frontier]]
+|health= 120
+|member= 
+|attack= 
+|weapon= 
+|spoils= [[Lizalfos Horn]]<br>[[Lizalfos Talon]]<br>[[Lizalfos Tail]]
+|exp= 
+|theme= 
+}}
+{{Term/Store|Blue Lizalfos|Blue Lizalfos|Series, BotW, CoH|plural}} are recurring {{Plural|Series|Enemy|link}} in {{TLoZ|Series}}.<ref>{{Cite|'''{{Color|BotW Shrine Quest|Blue Lizalfos}}'''|Hyrule Compendium|BotW}}</ref>
+
+==Characteristics==
+==={{BotW|-}}===
+{{Compendium/Extract|Blue Lizalfos}}
+Blue Lizalfos are stronger than green [[Lizalfos]], as they have more health and carry stronger {{Plural|BotW|Weapon|link}}.<ref>{{Cite|Compared to the green Lizalfos, many of these carry much stronger weapons and are generally much tougher.|Hyrule Compendium|BotW}}</ref> Like other Lizalfos, they can be often be found in or around bodies of water, such as Lakes and Rivers, but they can also be found throughout the [[Gerudo Desert]].
+
+==Other Appearances==
+==={{CoH|-}}===
+{{Ambig|Start}}
+In {{CoH}}, {{Plural|CoH|Blue Lizalfos}} are not stronger than {{Term|CoH|Green Lizalfos|link}}, but they do wield spears, giving them a much farther reach when they attack. While their movement is bound to the beat of the music, they typically stand still until either {{Term|CoH|Cadence|link}}, {{Term|CoH|Link|link}}, {{Term|CoH|Yves|link}}, or {{Term|CoH|Princess Zelda|link}} crosses their path. Once they have the heroes within their sights, they will proceed to charge at them within a straight line, moving on every beat until they collide into something or the heroes stop their attack with their {{Term|CoH|Weapon|link}}, stunning them for three beats. While stunned, they are rendered completely defenseless until they regain consciousness on the fourth beat, returning to their original stance to look for targets.
+{{Ambig|End}}
+
+{{Noncanon|Start}}
+==={{HWAoC|-}}===
+{{Stub|HWAoC}}
+{{Noncanon|End}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+==Gallery==
+<gallery>
+File:CoH Blue Lizalfos Artwork.png|Blue Lizalfos artwork from {{CoH|-}}
+File:CoH Blue Lizalfos Sprite.png|Blue Lizalfos from {{CoH|-}}
+File:BotW Moblin and Lizalfos Concept Artwork.jpg|Concept art of Blue Lizalfos and other monsters from {{BotW|-}}
+</gallery>
+
+==See Also==
+* [[Lizalfos]]
+* [[Black Lizalfos]]
+* [[Golden Lizalfos]]
+* [[Silver Lizalfos]]
+* [[Electric Lizalfos]]
+* [[Fire-Breath Lizalfos]]
+* [[Ice-Breath Lizalfos]]
+* [[Cursed Lizalfos]]
+* [[Stalizalfos]]
+
+{{Ref}}
+
+{{Categories
+ |Lizalfos
+ |enemies= BotW, CoH, HWAoC
+}}

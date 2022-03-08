@@ -1,0 +1,53 @@
+{{Infobox Character
+|image= File:BotW Jini Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Jini||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Jini|N/A|BotW}}</ref>
+
+==Biography==
+Jini is a male [[Hylian]] who can be found at the [[Mounted Archery Camp]] in the [[Faron Grasslands]] region of [[Hyrule]]. He runs the Horseback Archery Drill at the camp and sells [[Arrow]]<nowiki/>s to [[Link]] before paying the drill. 
+
+===Wares and Prices===
+{{Tab2
+|format= top
+|align= 
+|default= 1
+|tabwidth= 12em
+|tab1= Normal Weather
+|content1= {{ShopItem/h|desc=yes}}
+{{ShopItem|BotW|Arrow|35|quantity=5|typeimg=Icon|desc=A bundle of 10 common arrows.<br>The shafts of these arrows were carved from the wood of a sturdy tree.|dispname=Arrows x10}}
+{{ShopItem|BotW|Arrow|20|quantity=3|typeimg=Icon|desc=A bundle of five common arrows.<br>The shafts of these arrows were carved from the wood of a sturdy tree.|dispname=Arrows x5}}
+{{ShopItem|BotW|Arrow|5|quantity=10|typeimg=Icon|desc=A common arrow. Its shaft was carved from the wood of a sturdy tree.|dispname=Arrows}}
+{{ShopItem|BotW|Bomb Arrow|50|quantity=5|typeimg=Icon|desc=A powerful arrow designed to destroy monsters. The explosive powder packed into the tip ignites on impact, dealing massive damage to anything caught in the blast.|dispname=Bomb Arrows}}
+
+{{!)}}
+|tab2= Rain
+|content2= 
+{{ShopItem/h|desc=yes}}
+{{ShopItem|BotW|Arrow|35|quantity=5|typeimg=Icon|desc=A bundle of 10 common arrows.<br>The shafts of these arrows were carved from the wood of a sturdy tree.|dispname=Arrows x10}}
+{{ShopItem|BotW|Arrow|20|quantity=3|typeimg=Icon|desc=A bundle of five common arrows.<br>The shafts of these arrows were carved from the wood of a sturdy tree.|dispname=Arrows x5}}
+{{ShopItem|BotW|Arrow|5|quantity=10|typeimg=Icon|desc=A common arrow. Its shaft was carved from the wood of a sturdy tree.|dispname=Arrows}}
+{{ShopItem|BotW|Shock Arrow|50|quantity=5|typeimg=Icon|desc=An arrow imbued with the power of electricity. It breaks apart on impact, channeling electricity into nearby objects. It's incredibly effective against metal or anything wet.|dispname=Shock Arrows}}
+{{!)}}
+}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+{{Categories
+ |Hylians, Hyruleans, Merchants
+ |characters= BotW
+}}
